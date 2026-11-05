@@ -57,3 +57,6 @@ Mesma pergunta central não basta: adapte tema, exemplo e CTA à realidade de ca
 - EUA, Europa e Austrália: custo em moeda forte, fuso, atendimento em português e como contratar do Brasil. CTA: CÂMBIO ou RAIO-X.
 - Brasil: venda local, lead qualificado, WhatsApp, custo por venda e prova de operação. Não use o argumento de câmbio ou de custo em real. CTA: RAIO-X.
 - A semana é uma rotação: nunca publique duas regiões iguais seguidas quando houver outra pendente, e varie o ângulo mesmo em temas parecidos.
+
+## Cronograma
+Siga `sistema/CRONOGRAMA.md` para data, horário, região e tema. Se um tema não puder ser sustentado com fonte, troque por outro da mesma região e informe no resumo.
