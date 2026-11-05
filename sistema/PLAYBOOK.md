@@ -36,3 +36,16 @@ Copie `sistema/` para uma pasta nova e use `exemplos/` como modelo. 30 s, 1080x1
 
 ## Painéis e gravações
 Mostre a estrutura de trabalho com painéis de demonstração (`exemplos/painel`). Todo painel fictício leva "Dados fictícios" na tela e "dados fictícios" na legenda, com nome genérico de cliente. Nunca use dado, marca ou tela de cliente real.
+
+## Mercados, moedas e horários
+Cada Reel fala com um mercado principal e usa a moeda dele na tela e na legenda. Número de exemplo continua rotulado como exemplo; câmbio real precisa de fonte e data.
+
+| Mercado | Moeda | Por semana | Horário de teste (São Paulo) | Hashtags e termos na legenda |
+|---|---|---|---|---|
+| EUA | US$ | 6 | 18h (16h em Miami) e 12h (10h em Miami) | #brasileirosnoseua #brasileirosemorlando #brasileirosemmiami; negócio nos EUA, Flórida, em dólar |
+| Portugal e Espanha | € | 4 | 10h (13h em Lisboa) | #brasileirosemportugal #brasileirosnaespanha #empreendedorasbrasileiras; negócio em Portugal, Espanha, Europa, em euro |
+| Austrália | A$ | 4 | 19h (9h do dia seguinte em Sydney, em novembro) | #brasileirosnaaustralia #brasileirosemsydney; negócio na Austrália, Sydney, Melbourne, em dólar australiano |
+
+Fusos mudam com o horário de verão: confira antes de citar um horário. Use no máximo 5 hashtags. Registre o mercado e o horário de cada Reel no resumo diário para comparar alcance, views e compartilhamentos. Só conclua algo depois de pelo menos 5 posts por combinação.
+
+Um horário por dia pode ser trocado conforme o mercado, mantendo no máximo 2 Reels por dia e sem ocupar horário já agendado.
