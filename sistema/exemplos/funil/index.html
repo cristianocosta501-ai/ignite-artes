@@ -1,0 +1,11 @@
+<!doctype html><meta charset=utf-8><link rel=stylesheet href=style.css><div id=root></div><script src=engine.js></script><script>
+const fr=(n,v,w,d)=>`<div class="fr" data-in="${d}"><div class="flab"><span class="txt">${n}</span><b class="txt">${v}</b></div><div class="fb"><div data-w="${w}" data-in2="${d}"></div></div></div>`;
+init([
+{html:`<div class="big">1.000</div><h1 data-t>cliques. <span class="hl">Quantas vendas?</span></h1><span class="ex" data-ph>Exemplo ilustrativo</span>`},
+{html:`<h2 data-t>Clique não <span class="hl">paga a conta.</span></h2><div class="funnel">${fr('Cliques','1.000',100,'.2')}${fr('Conversas','80',8,'.45')}</div><span class="ex" data-ph>Exemplo ilustrativo</span>`},
+{html:`<h2 data-t>Conversa também <span class="hl">não paga.</span></h2><div class="funnel">${fr('Cliques','1.000',100,'.1')}${fr('Conversas','80',8,'.25')}${fr('Qualificados','20',2,'.5')}</div><span class="ex" data-ph>Exemplo ilustrativo</span>`},
+{alt:1,html:`<h2 data-t>Quem paga é a venda.</h2><div class="big" data-c="4">4</div><div class="sub" data-t>vendas neste exemplo</div><div class="funnel">${fr('Vendas','4',1,'.4')}</div>`},
+{html:`<h2 data-t>Peça o número <span class="hl">de baixo.</span></h2><div class="chk" data-in=".3"><u>1</u><span class="txt">Lead qualificado</span></div><div class="chk" data-in=".5"><u>2</u><span class="txt">Venda</span></div><div class="chk" data-in=".7"><u>3</u><span class="txt">Custo por venda</span></div>`},
+{html:`<h2 data-t>Esse é o gráfico <span class="hl">que importa.</span></h2><div class="chart" data-in=".2"><svg viewBox="0 0 880 560"><g stroke="#2d2d33" stroke-width="2"><path d="M0 110H880M0 250H880M0 390H880M0 530H880"/></g><path data-d fill="none" stroke="#FA581A" stroke-width="12" stroke-linecap="round" d="M20 490 C160 470 220 420 330 390 S520 300 610 230 S780 120 860 70"/></svg><div class="row" style="margin-top:14px"><span class="txt">Vendas por semana</span><span class="ex txt" style="margin:0">Exemplo</span></div></div>`},
+{html:`<div class="end">${LOGO}<h2 data-t>Quer abrir os números da sua conta?</h2><div class="pill" data-in=".5">Comenta RAIO-X</div><div class="hand" data-in=".7">@ignit.agency</div></div>`}
+]);</script>

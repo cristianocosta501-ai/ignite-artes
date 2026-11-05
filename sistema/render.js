@@ -1,0 +1,6 @@
+const {chromium}=require('playwright'),fs=require('fs');(async()=>{const dir=process.argv[2];const b=await chromium.launch();const p=await b.newPage({viewport:{width:1080,height:1920}});p.on('pageerror',e=>console.log('ERR',e.message));
+await p.goto('file://'+dir+'/index.html');await p.evaluate(()=>document.fonts.ready);fs.mkdirSync(dir+'/frames',{recursive:true});
+const of=await p.evaluate(()=>window.__scenes.map((s,i)=>{renderFrame([0,4.5,9,13.5,18,22.5,27][i]+2.5);const m=[...s.el.querySelectorAll('*')].filter(e=>!e.closest('#bolt')).map(e=>e.getBoundingClientRect());return [i+1,Math.round(Math.min(...m.map(r=>r.top))),Math.round(Math.max(...m.map(r=>r.bottom))),Math.round(Math.max(...m.map(r=>r.right)))]}));console.log('limites',JSON.stringify(of));
+fs.writeFileSync(dir+'/rects.json',JSON.stringify(await p.evaluate(()=>textRects())));
+if(process.argv[3]==='draft'){for(const t of [0,3,6.5,11,15.5,20,24.5,28.5]){await p.evaluate(x=>renderFrame(x),t);await p.screenshot({path:`${dir}/d_${String(t).padStart(4,'0')}.jpg`,type:'jpeg',quality:70})}await b.close();return}
+for(let i=0;i<900;i++){await p.evaluate(t=>renderFrame(t),i/30);await p.screenshot({path:`${dir}/frames/f_${String(i).padStart(5,'0')}.jpg`,type:'jpeg',quality:95})}await b.close()})();
