@@ -33,3 +33,6 @@ Copie `sistema/` para uma pasta nova e use `exemplos/` como modelo. 30 s, 1080x1
 - CTA: CÂMBIO (custo e arbitragem) ou RAIO-X (auditoria de conta).
 - Sem gasto com mídia, sem responder directs e sem qualquer custo novo.
 - Se uma checagem falhar, não agende essa peça e avise o que falhou.
+
+## Painéis e gravações
+Mostre a estrutura de trabalho com painéis de demonstração (`exemplos/painel`). Todo painel fictício leva "Dados fictícios" na tela e "dados fictícios" na legenda, com nome genérico de cliente. Nunca use dado, marca ou tela de cliente real.

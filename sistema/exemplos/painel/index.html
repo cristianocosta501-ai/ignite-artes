@@ -1,0 +1,13 @@
+<!doctype html><meta charset=utf-8><link rel=stylesheet href=style.css><div id=root></div><script src=engine.js></script><script>
+const fr=(t,b)=>`<div class="br"><div class="bar"><i></i><i></i><i></i><span>painel · Cliente Exemplo</span></div><div class="pn"><div style="margin-bottom:20px"><span class="fic txt">Dados fictícios</span></div>${b}</div></div>`;
+const ch=(n,w,v,d)=>`<div class="ch" data-in="${d}"><span class="txt">${n}</span><div class="tr"><div data-w="${w}" data-in2="${d}"></div></div><span class="vv txt">${v}</span></div>`;
+const kp=`<div class="kp"><div class="k"><small class="txt">Investimento</small><b class="txt">US$ <span data-c="4200">4.200</span></b></div><div class="k"><small class="txt">Vendas</small><b class="txt"><span data-c="84">84</span></b></div><div class="k"><small class="txt">Receita</small><b class="txt">US$ <span data-c="18900">18.900</span></b></div><div class="k"><small class="txt">Custo por venda</small><b class="txt"><em>US$ <span data-c="50">50</span></em></b></div></div>`;
+init([
+{html:`<h1 data-t>Por dentro <span class="hl">de um painel.</span></h1>${fr('',kp)}`},
+{html:`<h2 data-t>Primeiro, <span class="hl">a venda.</span></h2>${fr('',kp)}`},
+{html:`<h2 data-t>Depois, <span class="hl">a origem.</span></h2>${fr('',ch('Google',100,'46','.25')+ch('Meta',70,'32','.45')+ch('Direto',13,'6','.65'))}`},
+{alt:1,html:`<h2 data-t>Na sua moeda. No seu fuso.</h2>${fr('',`<div class="tog" data-in=".3"><b class="on txt">US$</b><b class="txt">€</b><b class="txt">A$</b></div><div class="tog" data-in=".5"><b class="on txt">Miami</b><b class="txt">Lisboa</b><b class="txt">Sydney</b></div>`)}`},
+{html:`<h2 data-t>Semana a <span class="hl">semana.</span></h2>${fr('',`<svg data-ph viewBox="0 0 860 300" style="width:100%;display:block"><path d="M0 75H860M0 150H860M0 225H860" stroke="#2d2d33" stroke-width="2"/><path data-d fill="none" stroke="#FA581A" stroke-width="11" stroke-linecap="round" d="M15 265 C150 245 230 220 340 170 S560 120 640 85 S790 45 845 28"/></svg><div class="row" style="margin-top:16px"><span class="txt">Vendas por semana</span></div>`)}`},
+{html:`<h2 data-t>Termina em <span class="hl">decisão.</span></h2><div class="chk" data-in=".25"><u>✓</u><span class="txt">O que manter</span></div><div class="chk" data-in=".45"><u>✓</u><span class="txt">O que cortar</span></div><div class="chk" data-in=".65"><u>✓</u><span class="txt">Para onde vai a verba</span></div>`},
+{html:`<div class="end">${LOGO}<h2 data-t>Quer esse raio-x na sua conta?</h2><div class="pill" data-in=".5">Comenta RAIO-X</div><div class="hand" data-in=".7">@ignit.agency</div></div>`}
+]);</script>
