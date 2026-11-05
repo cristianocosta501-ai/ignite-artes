@@ -1,0 +1,374 @@
+{
+"fetchedAt": "2026-11-05T21:05:00Z",
+"source": "Metricool",
+"profile": "ignit.agency",
+"followers": 55,
+"daily": [
+{
+"d": "2026-09-01",
+"followers": 53,
+"reach": 4,
+"views": 14
+},
+{
+"d": "2026-09-02",
+"followers": 53,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-09-03",
+"followers": 53,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-09-04",
+"followers": 54,
+"reach": 0,
+"views": 4
+},
+{
+"d": "2026-09-05",
+"followers": 56,
+"reach": 1,
+"views": 1
+},
+{
+"d": "2026-10-07",
+"followers": 55,
+"reach": 12,
+"views": 19
+},
+{
+"d": "2026-10-08",
+"followers": 55,
+"reach": 2,
+"views": 2
+},
+{
+"d": "2026-10-09",
+"followers": 55,
+"reach": 8,
+"views": 20
+},
+{
+"d": "2026-10-10",
+"followers": 55,
+"reach": 2,
+"views": 9
+},
+{
+"d": "2026-10-11",
+"followers": 55,
+"reach": 2,
+"views": 4
+},
+{
+"d": "2026-10-12",
+"followers": 55,
+"reach": 7,
+"views": 11
+},
+{
+"d": "2026-10-13",
+"followers": 55,
+"reach": 3,
+"views": 7
+},
+{
+"d": "2026-10-14",
+"followers": 55,
+"reach": 8,
+"views": 24
+},
+{
+"d": "2026-10-15",
+"followers": 55,
+"reach": 5,
+"views": 9
+},
+{
+"d": "2026-10-16",
+"followers": 55,
+"reach": 9,
+"views": 13
+},
+{
+"d": "2026-10-17",
+"followers": 55,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-10-18",
+"followers": 55,
+"reach": 1,
+"views": 4
+},
+{
+"d": "2026-10-19",
+"followers": 55,
+"reach": 102,
+"views": 169
+},
+{
+"d": "2026-10-20",
+"followers": 55,
+"reach": 10,
+"views": 25
+},
+{
+"d": "2026-10-21",
+"followers": 55,
+"reach": 8,
+"views": 17
+},
+{
+"d": "2026-10-22",
+"followers": 55,
+"reach": 1,
+"views": 2
+},
+{
+"d": "2026-10-23",
+"followers": 55,
+"reach": 9,
+"views": 35
+},
+{
+"d": "2026-10-24",
+"followers": 55,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-10-25",
+"followers": 55,
+"reach": 1,
+"views": 1
+},
+{
+"d": "2026-10-26",
+"followers": 55,
+"reach": 10,
+"views": 20
+},
+{
+"d": "2026-10-27",
+"followers": 55,
+"reach": 2,
+"views": 3
+},
+{
+"d": "2026-10-28",
+"followers": 55,
+"reach": 9,
+"views": 29
+},
+{
+"d": "2026-10-29",
+"followers": 55,
+"reach": 5,
+"views": 9
+},
+{
+"d": "2026-10-30",
+"followers": 55,
+"reach": 1,
+"views": 4
+},
+{
+"d": "2026-10-31",
+"followers": 55,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-11-01",
+"followers": 55,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-11-02",
+"followers": 55,
+"reach": 2,
+"views": 3
+},
+{
+"d": "2026-11-03",
+"followers": 55,
+"reach": 1,
+"views": 1
+},
+{
+"d": "2026-11-04",
+"followers": 55,
+"reach": 0,
+"views": 1
+}
+],
+"posts": [
+{
+"date": "2026-10-07",
+"type": "Reel",
+"region": "EUA",
+"title": "Salário em Miami x Brasil",
+"url": "https://www.instagram.com/reel/DeMawz4mdDf/",
+"reach": 21,
+"views": 29,
+"likes": 4,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-09",
+"type": "Carrossel",
+"region": "EUA",
+"title": "5 erros de tracking",
+"url": "https://www.instagram.com/p/DeRkR-kgerT/",
+"reach": 15,
+"views": 38,
+"likes": 2,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-12",
+"type": "Reel",
+"region": "Geral",
+"title": "Clique no WhatsApp não é cliente",
+"url": "https://www.instagram.com/reel/DeZS0iRiTyF/",
+"reach": 11,
+"views": 20,
+"likes": 3,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-14",
+"type": "Carrossel",
+"region": "EUA",
+"title": "Cliente nos EUA pesquisa em inglês",
+"url": "https://www.instagram.com/p/DeecTJvjATF/",
+"reach": 14,
+"views": 33,
+"likes": 5,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-16",
+"type": "Reel",
+"region": "Geral",
+"title": "Opção de local no Google Ads",
+"url": "https://www.instagram.com/reel/Dejl2nWlMgr/",
+"reach": 11,
+"views": 18,
+"likes": 3,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-19",
+"type": "Carrossel",
+"region": "Geral",
+"title": "Morar fora e contratar agência no Brasil",
+"url": "https://www.instagram.com/p/DerUMonj2UK/",
+"reach": 111,
+"views": 186,
+"likes": 6,
+"comments": 0,
+"saves": 2,
+"shares": 2
+},
+{
+"date": "2026-10-21",
+"type": "Reel",
+"region": "EUA",
+"title": "Dólar perto de R$ 5,00",
+"url": "https://www.instagram.com/reel/Dewd1FUjVq0/",
+"reach": 9,
+"views": 18,
+"likes": 2,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-23",
+"type": "Carrossel",
+"region": "Geral",
+"title": "Fase de aprendizado da Meta",
+"url": "https://www.instagram.com/p/De1nXlcjeja/",
+"reach": 11,
+"views": 39,
+"likes": 6,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-26",
+"type": "Reel",
+"region": "Geral",
+"title": "Termos de pesquisa",
+"url": "https://www.instagram.com/reel/De9Vy9yFZt0/",
+"reach": 12,
+"views": 20,
+"likes": 4,
+"comments": 0,
+"saves": 0,
+"shares": 0
+},
+{
+"date": "2026-10-28",
+"type": "Carrossel",
+"region": "Geral",
+"title": "ROAS no painel x caixa",
+"url": "https://www.instagram.com/p/DfCfVv1ieED/",
+"reach": 14,
+"views": 41,
+"likes": 6,
+"comments": 0,
+"saves": 0,
+"shares": 0
+}
+],
+"queue": [
+{
+"date": "2026-11-06",
+"time": "10h",
+"type": "Reel",
+"region": "Geral",
+"title": "Fuso: que horas são aí"
+},
+{
+"date": "2026-11-06",
+"time": "18h",
+"type": "Reel",
+"region": "Geral",
+"title": "De 1.000 cliques a 4 vendas"
+},
+{
+"date": "2026-11-07",
+"time": "10h",
+"type": "Reel",
+"region": "Geral",
+"title": "Por dentro de um painel"
+},
+{
+"date": "2026-11-11",
+"time": "10h",
+"type": "Carrossel",
+"region": "Geral",
+"title": "5 perguntas antes de contratar"
+}
+]
+}

@@ -60,3 +60,6 @@ Mesma pergunta central não basta: adapte tema, exemplo e CTA à realidade de ca
 
 ## Cronograma
 Siga `sistema/CRONOGRAMA.md` para data, horário, região e tema. Se um tema não puder ser sustentado com fonte, troque por outro da mesma região e informe no resumo.
+
+## Dados da dashboard
+Toda rodada regrava `sistema/instagram-metricas.json` com dados do Metricool, mantendo as chaves `fetchedAt`, `source`, `profile`, `followers`, `daily` (`d`, `followers`, `reach`, `views`), `posts` (`date`, `type`, `region`, `title`, `url`, `reach`, `views`, `likes`, `comments`, `saves`, `shares`) e `queue` (`date`, `time`, `type`, `region`, `title`). Não inclua directs, leads, nomes de pessoas nem dados de clientes: o repositório é público. Se o Metricool falhar, não apague o arquivo anterior.
