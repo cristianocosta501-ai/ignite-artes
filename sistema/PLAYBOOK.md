@@ -42,10 +42,18 @@ Cada Reel fala com um mercado principal e usa a moeda dele na tela e na legenda.
 
 | Mercado | Moeda | Por semana | Horário de teste (São Paulo) | Hashtags e termos na legenda |
 |---|---|---|---|---|
-| EUA | US$ | 6 | 18h (16h em Miami) e 12h (10h em Miami) | #brasileirosnoseua #brasileirosemorlando #brasileirosemmiami; negócio nos EUA, Flórida, em dólar |
-| Portugal e Espanha | € | 4 | 10h (13h em Lisboa) | #brasileirosemportugal #brasileirosnaespanha #empreendedorasbrasileiras; negócio em Portugal, Espanha, Europa, em euro |
-| Austrália | A$ | 4 | 19h (9h do dia seguinte em Sydney, em novembro) | #brasileirosnaaustralia #brasileirosemsydney; negócio na Austrália, Sydney, Melbourne, em dólar australiano |
+| EUA | US$ | 5 | 18h (16h em Miami) e 12h (10h em Miami) | #brasileirosnoseua #brasileirosemorlando #brasileirosemmiami; negócio nos EUA, Flórida, em dólar |
+| Portugal e Espanha | € | 3 | 10h (13h em Lisboa) | #brasileirosemportugal #brasileirosnaespanha #empreendedorasbrasileiras; negócio em Portugal, Espanha, Europa, em euro |
+| Austrália | A$ | 3 | 19h (9h do dia seguinte em Sydney, em novembro) | #brasileirosnaaustralia #brasileirosemsydney; negócio na Austrália, Sydney, Melbourne, em dólar australiano |
+| Brasil | R$ | 3 | 12h ou 18h | #pmes #empreendedorbrasileiro #trafegopago; PME, negócio local, sua cidade, em real |
 
 Fusos mudam com o horário de verão: confira antes de citar um horário. Use no máximo 5 hashtags. Registre o mercado e o horário de cada Reel no resumo diário para comparar alcance, views e compartilhamentos. Só conclua algo depois de pelo menos 5 posts por combinação.
 
 Um horário por dia pode ser trocado conforme o mercado, mantendo no máximo 2 Reels por dia e sem ocupar horário já agendado.
+
+## Tema por região
+Mesma pergunta central não basta: adapte tema, exemplo e CTA à realidade de cada região.
+
+- EUA, Europa e Austrália: custo em moeda forte, fuso, atendimento em português e como contratar do Brasil. CTA: CÂMBIO ou RAIO-X.
+- Brasil: venda local, lead qualificado, WhatsApp, custo por venda e prova de operação. Não use o argumento de câmbio ou de custo em real. CTA: RAIO-X.
+- A semana é uma rotação: nunca publique duas regiões iguais seguidas quando houver outra pendente, e varie o ângulo mesmo em temas parecidos.
