@@ -5,7 +5,7 @@
 | Sex 06/11 | 10h | Reel | Help | Geral | Fuso: que horas são aí quando a agência está no Brasil | Agendado |
 | Sex 06/11 | 18h | Reel | Help | Geral | De 1.000 cliques a 4 vendas: qual número cobrar (dados de exemplo) | Agendado |
 | Sáb 07/11 | 10h | Reel | Hub | Geral | Por dentro de um painel de mídia (dados fictícios) | Agendado |
-| Sáb 07/11 | 18h | Reel | Help | EUA | Agência nos EUA ou no Brasil: o que comparar em dólar | Planejado |
+| Sáb 07/11 | 18h | Reel | Help | EUA | Agência nos EUA ou no Brasil: o que comparar em dólar | Agendado |
 | Dom 08/11 | 10h | Reel | Help | Portugal e Espanha | Cliente em Portugal ou Espanha: anúncio, página e idioma certos | Planejado |
 | Dom 08/11 | 19h | Reel | Help | Austrália | 14 horas de fuso: como combinar reunião e prazo de resposta | Planejado |
 | Seg 09/11 | 12h | Reel | Help | Brasil | Lead sem resposta no WhatsApp: como medir o tempo de atendimento | Planejado |

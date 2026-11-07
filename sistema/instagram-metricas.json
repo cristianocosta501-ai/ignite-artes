@@ -1,5 +1,5 @@
 {
-"fetchedAt": "2026-11-06T08:25:00Z",
+"fetchedAt": "2026-11-07T08:40:00Z",
 "source": "Metricool",
 "profile": "ignit.agency",
 "followers": 55,
@@ -84,6 +84,12 @@
 },
 {
 "d": "2026-09-14",
+"followers": 55,
+"reach": 0,
+"views": 0
+},
+{
+"d": "2026-09-15",
 "followers": 55,
 "reach": 0,
 "views": 0
@@ -387,6 +393,12 @@
 "followers": 55,
 "reach": 0,
 "views": 1
+},
+{
+"d": "2026-11-05",
+"followers": 55,
+"reach": 1,
+"views": 2
 }
 ],
 "posts": [
@@ -514,34 +526,27 @@
 "title": "ROAS no painel x caixa",
 "url": "https://www.instagram.com/p/DfCfVv1ieED/",
 "reach": 14,
-"views": 41,
+"views": 43,
 "likes": 6,
-"comments": 0,
+"comments": 2,
 "saves": 0,
 "shares": 0
 }
 ],
 "queue": [
 {
-"date": "2026-11-06",
-"time": "10h",
-"type": "Reel",
-"region": "Geral",
-"title": "Fuso: que horas são aí"
-},
-{
-"date": "2026-11-06",
-"time": "18h",
-"type": "Reel",
-"region": "Geral",
-"title": "De 1.000 cliques a 4 vendas"
-},
-{
 "date": "2026-11-07",
 "time": "10h",
 "type": "Reel",
 "region": "Geral",
 "title": "Por dentro de um painel"
+},
+{
+"date": "2026-11-07",
+"time": "18h",
+"type": "Reel",
+"region": "EUA",
+"title": "Agência nos EUA ou no Brasil: compare em dólar"
 },
 {
 "date": "2026-11-11",
