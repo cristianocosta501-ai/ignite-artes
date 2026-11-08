@@ -1,8 +1,8 @@
 {
-"fetchedAt": "2026-11-07T08:40:00Z",
+"fetchedAt": "2026-11-08T08:28:00Z",
 "source": "Metricool",
 "profile": "ignit.agency",
-"followers": 55,
+"followers": 56,
 "daily": [
 {
 "d": "2026-09-01",
@@ -399,6 +399,12 @@
 "followers": 55,
 "reach": 1,
 "views": 2
+},
+{
+"d": "2026-11-06",
+"followers": 56,
+"reach": 22,
+"views": 92
 }
 ],
 "posts": [
@@ -421,8 +427,8 @@
 "region": "EUA",
 "title": "5 erros de tracking",
 "url": "https://www.instagram.com/p/DeRkR-kgerT/",
-"reach": 15,
-"views": 38,
+"reach": 16,
+"views": 39,
 "likes": 2,
 "comments": 0,
 "saves": 0,
@@ -434,8 +440,8 @@
 "region": "Geral",
 "title": "Clique no WhatsApp não é cliente",
 "url": "https://www.instagram.com/reel/DeZS0iRiTyF/",
-"reach": 11,
-"views": 20,
+"reach": 12,
+"views": 21,
 "likes": 3,
 "comments": 0,
 "saves": 0,
@@ -447,8 +453,8 @@
 "region": "EUA",
 "title": "Cliente nos EUA pesquisa em inglês",
 "url": "https://www.instagram.com/p/DeecTJvjATF/",
-"reach": 14,
-"views": 33,
+"reach": 15,
+"views": 34,
 "likes": 5,
 "comments": 0,
 "saves": 0,
@@ -487,7 +493,7 @@
 "title": "Dólar perto de R$ 5,00",
 "url": "https://www.instagram.com/reel/Dewd1FUjVq0/",
 "reach": 9,
-"views": 18,
+"views": 19,
 "likes": 2,
 "comments": 0,
 "saves": 0,
@@ -513,7 +519,7 @@
 "title": "Termos de pesquisa",
 "url": "https://www.instagram.com/reel/De9Vy9yFZt0/",
 "reach": 12,
-"views": 20,
+"views": 21,
 "likes": 4,
 "comments": 0,
 "saves": 0,
@@ -525,28 +531,67 @@
 "region": "Geral",
 "title": "ROAS no painel x caixa",
 "url": "https://www.instagram.com/p/DfCfVv1ieED/",
-"reach": 14,
-"views": 43,
+"reach": 16,
+"views": 46,
 "likes": 6,
 "comments": 2,
 "saves": 0,
+"shares": 0
+},
+{
+"date": "2026-11-06",
+"type": "Reel",
+"region": "Geral",
+"title": "De 1.000 cliques a 4 vendas",
+"url": "https://www.instagram.com/reel/DfahzCblR9Z/",
+"reach": 11,
+"views": 15,
+"likes": 4,
+"comments": 0,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-06",
+"type": "Reel",
+"region": "Geral",
+"title": "Fuso: que horas são aí",
+"url": "https://www.instagram.com/reel/DfZrJAsDxq4/",
+"reach": 23,
+"views": 52,
+"likes": 9,
+"comments": 0,
+"saves": 2,
+"shares": 0
+},
+{
+"date": "2026-11-07",
+"type": "Reel",
+"region": "Geral",
+"title": "Por dentro de um painel (dados fictícios)",
+"url": "https://www.instagram.com/reel/DfcPrE0CiuC/",
+"reach": 11,
+"views": 19,
+"likes": 9,
+"comments": 0,
+"saves": 5,
 "shares": 0
 }
 ],
 "queue": [
 {
-"date": "2026-11-07",
+"date": "2026-11-08",
 "time": "10h",
 "type": "Reel",
-"region": "Geral",
-"title": "Por dentro de um painel"
+"region": "Portugal e Espanha",
+"title": "Portugal e Espanha não são um mercado"
 },
 {
-"date": "2026-11-07",
-"time": "18h",
+"date": "2026-11-08",
+"time": "19h",
 "type": "Reel",
-"region": "EUA",
-"title": "Agência nos EUA ou no Brasil: compare em dólar"
+"region": "Austrália",
+"title": "Sydney e Melbourne: quando separar a campanha"
 },
 {
 "date": "2026-11-11",
