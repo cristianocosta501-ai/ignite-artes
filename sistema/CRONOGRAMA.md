@@ -8,8 +8,8 @@
 | Sáb 07/11 | 18h | Reel | Help | EUA | Agência nos EUA ou no Brasil: o que comparar em dólar | Agendado |
 | Dom 08/11 | 10h | Reel | Help | Portugal e Espanha | Portugal e Espanha não são um mercado: idioma, campanha e fuso | Agendado |
 | Dom 08/11 | 19h | Reel | Help | Austrália | Sydney e Melbourne: quando separar a campanha por cidade (trocado: fuso já saiu em 06/11) | Agendado |
-| Seg 09/11 | 12h | Reel | Help | Brasil | Lead sem resposta no WhatsApp: como medir o tempo de atendimento | Planejado |
-| Seg 09/11 | 18h | Reel | Hero | EUA | Quanto custa um profissional de mídia em Miami, Orlando e Boston (com fonte) | Planejado |
+| Seg 09/11 | 12h | Reel | Help | Brasil | Lead sem resposta no WhatsApp: como medir o tempo de atendimento | Agendado |
+| Seg 09/11 | 18h | Reel | Hero | EUA | Quanto custa um profissional de marketing em Miami e Orlando (com fonte; Boston saiu por falta de dado verificado) | Agendado |
 | Ter 10/11 | 10h | Reel | Hub | Portugal e Espanha | Câmbio da semana: o que o euro muda no seu custo | Planejado |
 | Ter 10/11 | 19h | Reel | Hub | Austrália | Câmbio da semana: o que o dólar australiano muda no seu custo | Planejado |
 | Qua 11/11 | 10h | Carrossel | Help | Geral | 5 perguntas antes de contratar agência no Brasil | Agendado |

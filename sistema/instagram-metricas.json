@@ -1,5 +1,5 @@
 {
-"fetchedAt": "2026-11-08T08:28:00Z",
+"fetchedAt": "2026-11-09T08:30:51Z",
 "source": "Metricool",
 "profile": "ignit.agency",
 "followers": 56,
@@ -405,6 +405,12 @@
 "followers": 56,
 "reach": 22,
 "views": 92
+},
+{
+"d": "2026-11-07",
+"followers": 56,
+"reach": 20,
+"views": 64
 }
 ],
 "posts": [
@@ -505,8 +511,8 @@
 "region": "Geral",
 "title": "Fase de aprendizado da Meta",
 "url": "https://www.instagram.com/p/De1nXlcjeja/",
-"reach": 11,
-"views": 39,
+"reach": 12,
+"views": 40,
 "likes": 6,
 "comments": 0,
 "saves": 0,
@@ -518,9 +524,9 @@
 "region": "Geral",
 "title": "Termos de pesquisa",
 "url": "https://www.instagram.com/reel/De9Vy9yFZt0/",
-"reach": 12,
-"views": 21,
-"likes": 4,
+"reach": 14,
+"views": 22,
+"likes": 5,
 "comments": 0,
 "saves": 0,
 "shares": 0
@@ -531,9 +537,9 @@
 "region": "Geral",
 "title": "ROAS no painel x caixa",
 "url": "https://www.instagram.com/p/DfCfVv1ieED/",
-"reach": 16,
-"views": 46,
-"likes": 6,
+"reach": 17,
+"views": 49,
+"likes": 8,
 "comments": 2,
 "saves": 0,
 "shares": 0
@@ -545,8 +551,8 @@
 "title": "De 1.000 cliques a 4 vendas",
 "url": "https://www.instagram.com/reel/DfahzCblR9Z/",
 "reach": 11,
-"views": 15,
-"likes": 4,
+"views": 18,
+"likes": 6,
 "comments": 0,
 "saves": 4,
 "shares": 0
@@ -558,7 +564,7 @@
 "title": "Fuso: que horas são aí",
 "url": "https://www.instagram.com/reel/DfZrJAsDxq4/",
 "reach": 23,
-"views": 52,
+"views": 55,
 "likes": 9,
 "comments": 0,
 "saves": 2,
@@ -570,28 +576,54 @@
 "region": "Geral",
 "title": "Por dentro de um painel (dados fictícios)",
 "url": "https://www.instagram.com/reel/DfcPrE0CiuC/",
-"reach": 11,
-"views": 19,
+"reach": 20,
+"views": 37,
 "likes": 9,
 "comments": 0,
 "saves": 5,
+"shares": 0
+},
+{
+"date": "2026-11-07",
+"type": "Reel",
+"region": "EUA",
+"title": "Agência nos EUA ou no Brasil em dólar",
+"url": "https://www.instagram.com/reel/DfdGl6_Atmt/",
+"reach": 12,
+"views": 22,
+"likes": 4,
+"comments": 0,
+"saves": 2,
+"shares": 0
+},
+{
+"date": "2026-11-08",
+"type": "Reel",
+"region": "Portugal e Espanha",
+"title": "Portugal e Espanha não são um mercado",
+"url": "https://www.instagram.com/reel/Dfe0gEnmeaT/",
+"reach": 9,
+"views": 13,
+"likes": 6,
+"comments": 0,
+"saves": 4,
 "shares": 0
 }
 ],
 "queue": [
 {
-"date": "2026-11-08",
-"time": "10h",
+"date": "2026-11-09",
+"time": "12h",
 "type": "Reel",
-"region": "Portugal e Espanha",
-"title": "Portugal e Espanha não são um mercado"
+"region": "Brasil",
+"title": "Lead sem resposta no WhatsApp: tempo de atendimento"
 },
 {
-"date": "2026-11-08",
-"time": "19h",
+"date": "2026-11-09",
+"time": "18h",
 "type": "Reel",
-"region": "Austrália",
-"title": "Sydney e Melbourne: quando separar a campanha"
+"region": "EUA",
+"title": "Marketing na Flórida: quanto custa (Miami e Orlando)"
 },
 {
 "date": "2026-11-11",
