@@ -1,5 +1,5 @@
 {
-"fetchedAt": "2026-11-09T08:30:51Z",
+"fetchedAt": "2026-11-10T08:34:45Z",
 "source": "Metricool",
 "profile": "ignit.agency",
 "followers": 56,
@@ -411,6 +411,12 @@
 "followers": 56,
 "reach": 20,
 "views": 64
+},
+{
+"d": "2026-11-08",
+"followers": 56,
+"reach": 47,
+"views": 174
 }
 ],
 "posts": [
@@ -524,11 +530,11 @@
 "region": "Geral",
 "title": "Termos de pesquisa",
 "url": "https://www.instagram.com/reel/De9Vy9yFZt0/",
-"reach": 14,
-"views": 22,
-"likes": 5,
+"reach": 15,
+"views": 23,
+"likes": 6,
 "comments": 0,
-"saves": 0,
+"saves": 1,
 "shares": 0
 },
 {
@@ -537,11 +543,11 @@
 "region": "Geral",
 "title": "ROAS no painel x caixa",
 "url": "https://www.instagram.com/p/DfCfVv1ieED/",
-"reach": 17,
-"views": 49,
-"likes": 8,
+"reach": 19,
+"views": 52,
+"likes": 9,
 "comments": 2,
-"saves": 0,
+"saves": 1,
 "shares": 0
 },
 {
@@ -550,11 +556,11 @@
 "region": "Geral",
 "title": "De 1.000 cliques a 4 vendas",
 "url": "https://www.instagram.com/reel/DfahzCblR9Z/",
-"reach": 11,
-"views": 18,
-"likes": 6,
+"reach": 15,
+"views": 23,
+"likes": 8,
 "comments": 0,
-"saves": 4,
+"saves": 6,
 "shares": 0
 },
 {
@@ -563,11 +569,11 @@
 "region": "Geral",
 "title": "Fuso: que horas são aí",
 "url": "https://www.instagram.com/reel/DfZrJAsDxq4/",
-"reach": 23,
-"views": 55,
-"likes": 9,
+"reach": 27,
+"views": 63,
+"likes": 11,
 "comments": 0,
-"saves": 2,
+"saves": 4,
 "shares": 0
 },
 {
@@ -576,11 +582,11 @@
 "region": "Geral",
 "title": "Por dentro de um painel (dados fictícios)",
 "url": "https://www.instagram.com/reel/DfcPrE0CiuC/",
-"reach": 20,
-"views": 37,
-"likes": 9,
+"reach": 24,
+"views": 47,
+"likes": 11,
 "comments": 0,
-"saves": 5,
+"saves": 7,
 "shares": 0
 },
 {
@@ -589,12 +595,12 @@
 "region": "EUA",
 "title": "Agência nos EUA ou no Brasil em dólar",
 "url": "https://www.instagram.com/reel/DfdGl6_Atmt/",
-"reach": 12,
-"views": 22,
-"likes": 4,
+"reach": 47,
+"views": 75,
+"likes": 7,
 "comments": 0,
-"saves": 2,
-"shares": 0
+"saves": 5,
+"shares": 1
 },
 {
 "date": "2026-11-08",
@@ -602,28 +608,54 @@
 "region": "Portugal e Espanha",
 "title": "Portugal e Espanha não são um mercado",
 "url": "https://www.instagram.com/reel/Dfe0gEnmeaT/",
-"reach": 9,
-"views": 13,
-"likes": 6,
+"reach": 19,
+"views": 34,
+"likes": 8,
 "comments": 0,
-"saves": 4,
+"saves": 6,
 "shares": 0
+},
+{
+"date": "2026-11-08",
+"type": "Reel",
+"region": "Austrália",
+"title": "Sydney e Melbourne: separar campanha por cidade",
+"url": "https://www.instagram.com/reel/DffyOowAn1G/",
+"reach": 14,
+"views": 32,
+"likes": 2,
+"comments": 0,
+"saves": 3,
+"shares": 0
+},
+{
+"date": "2026-11-09",
+"type": "Reel",
+"region": "Brasil",
+"title": "Lead sem resposta no WhatsApp",
+"url": "https://www.instagram.com/reel/DfhnVhmDYIu/",
+"reach": 51,
+"views": 62,
+"likes": 6,
+"comments": 6,
+"saves": 3,
+"shares": 1
 }
 ],
 "queue": [
 {
-"date": "2026-11-09",
-"time": "12h",
+"date": "2026-11-10",
+"time": "10h",
 "type": "Reel",
-"region": "Brasil",
-"title": "Lead sem resposta no WhatsApp: tempo de atendimento"
+"region": "Portugal e Espanha",
+"title": "Câmbio da semana: o euro e o seu custo"
 },
 {
-"date": "2026-11-09",
-"time": "18h",
+"date": "2026-11-10",
+"time": "19h",
 "type": "Reel",
-"region": "EUA",
-"title": "Marketing na Flórida: quanto custa (Miami e Orlando)"
+"region": "Austrália",
+"title": "Câmbio da semana: o dólar australiano e a sua fatura"
 },
 {
 "date": "2026-11-11",

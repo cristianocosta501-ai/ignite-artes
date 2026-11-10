@@ -10,8 +10,8 @@
 | Dom 08/11 | 19h | Reel | Help | Austrália | Sydney e Melbourne: quando separar a campanha por cidade (trocado: fuso já saiu em 06/11) | Agendado |
 | Seg 09/11 | 12h | Reel | Help | Brasil | Lead sem resposta no WhatsApp: como medir o tempo de atendimento | Agendado |
 | Seg 09/11 | 18h | Reel | Hero | EUA | Quanto custa um profissional de marketing em Miami e Orlando (com fonte; Boston saiu por falta de dado verificado) | Agendado |
-| Ter 10/11 | 10h | Reel | Hub | Portugal e Espanha | Câmbio da semana: o que o euro muda no seu custo | Planejado |
-| Ter 10/11 | 19h | Reel | Hub | Austrália | Câmbio da semana: o que o dólar australiano muda no seu custo | Planejado |
+| Ter 10/11 | 10h | Reel | Hub | Portugal e Espanha | Câmbio da semana: o que o euro muda no seu custo | Agendado |
+| Ter 10/11 | 19h | Reel | Hub | Austrália | Câmbio da semana: o que o dólar australiano muda no seu custo (cotação de mercado; sem PTAX acessível) | Agendado |
 | Qua 11/11 | 10h | Carrossel | Help | Geral | 5 perguntas antes de contratar agência no Brasil | Agendado |
 | Qua 11/11 | 18h | Reel | Help | EUA | Anunciar em inglês ou português: como decidir pelo seu cliente | Planejado |
 | Qui 12/11 | 12h | Reel | Hub | Brasil | Raio-X: como lemos a conta de um negócio local (dados fictícios) | Planejado |
