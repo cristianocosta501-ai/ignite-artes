@@ -64,7 +64,29 @@ Hipótese: sem mídia paga, o mercado brasileiro converte mais rápido que o de 
 - Público dos Reels Brasil: dono de PME do interior de SP, decisor, que já anuncia ou quer anunciar. O ticket mínimo ainda será definido pelo Cristiano. Até lá, não cite valor de contrato.
 - Conteúdo: serviços da Ignite na prática (como operamos, lemos a conta, montamos relatório, decidimos verba), falando com o dono do negócio. Não cite cidade, região nem "interior" na tela, na legenda ou nas hashtags. Use as hashtags do Brasil.
 - Moeda R$, exemplos rotulados como exemplo, CTA RAIO-X. Continua valendo: sem argumento de câmbio no Brasil, sem case ou resultado inventado.
-- Medição: no resumo diário, compare Brasil x internacional em alcance, views, comentários, compartilhamentos e comentários com RAIO-X/CÂMBIO. Em 26/11, entregue ao Cristiano um balanço das duas semanas com recomendação de manter, ajustar ou voltar à grade anterior.
+- Formato no horário Brasil: cerca de 3 carrosséis e 4 Reels por semana, conforme o cronograma. O internacional segue em Reel.
+- Medição: no resumo diário, compare carrossel x Reel e Brasil x internacional em alcance, views, comentários, compartilhamentos e comentários com RAIO-X/CÂMBIO. Em 26/11, entregue ao Cristiano um balanço das duas semanas com recomendação de manter, ajustar ou voltar à grade anterior.
+
+## Palavras-chave
+A busca do Instagram lê o texto da legenda, o texto na arte e o texto alternativo. Toda peça escolhe 1 palavra-chave principal e 1 ou 2 de apoio, de uma lista abaixo, e usa assim:
+
+1. No título da capa ou da primeira cena, de forma natural.
+2. Na primeira linha da legenda, e mais 1 ou 2 vezes no corpo, sem repetir em excesso.
+3. No texto alternativo (`mediaAltText`) de cada imagem do carrossel, descrevendo o slide com a palavra-chave.
+4. Em no máximo 5 hashtags, sendo 1 ou 2 de palavra-chave (por exemplo #trafegopago, #gestaodetrafego) e o resto do mercado.
+
+Lista Brasil: tráfego pago, gestão de tráfego, anúncios no Instagram, anúncios no Google, Google Ads, Meta Ads, marketing para pequenas empresas, agência de marketing, custo por venda, como anunciar, vender pelo WhatsApp, relatório de marketing.
+Lista internacional: os termos da tabela de mercados (negócio nos EUA, em Portugal, na Austrália, em dólar, em euro) combinados com tráfego pago, anúncios e agência de marketing no Brasil.
+
+Não repita a mesma palavra-chave principal em duas peças seguidas. Registre a palavra-chave usada no resumo diário.
+
+## Carrosséis
+Copie `sistema/carrossel.css`, `sistema/exemplos/carrossel/index.html` e as fontes InterDisplay (Medium, Bold, Black, em `/usr/share/fonts/opentype/inter/`) para uma pasta nova, escreva os slides e rode `node sistema/carrossel.js <pasta absoluta> <prefixo>`. O script gera `<prefixo>-N.jpg` em 1080x1350, numera os slides e reprova título com mais de 12 palavras ou texto fora da margem.
+
+- 6 a 10 slides: capa com a palavra-chave e promessa clara, um slide laranja de tensão, slides numerados e CTA no último.
+- Uma ideia por slide. Todo slide de conteúdo tem um objeto visual (barra, checklist, card de comparação, conversa) ou uma resposta em destaque. Nada de parágrafo longo.
+- Mesmas regras de fonte, exemplo, dados fictícios e CTA dos Reels.
+- Publique só os JPGs na pasta da data, sem fontes, CSS ou HTML de trabalho além do `index.html`. Agende com `instagramData.type` POST, uma mídia por slide em ordem, cada uma pelo link raw fixado no SHA, e `mediaAltText` preenchido.
 
 ## Cronograma
 Siga `sistema/CRONOGRAMA.md` para data, horário, região e tema. Se um tema não puder ser sustentado com fonte, troque por outro da mesma região e informe no resumo.
