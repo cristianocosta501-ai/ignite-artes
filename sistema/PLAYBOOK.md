@@ -58,6 +58,14 @@ Mesma pergunta central não basta: adapte tema, exemplo e CTA à realidade de ca
 - Brasil: venda local, lead qualificado, WhatsApp, custo por venda e prova de operação. Não use o argumento de câmbio ou de custo em real. CTA: RAIO-X.
 - A semana é uma rotação: nunca publique duas regiões iguais seguidas quando houver outra pendente, e varie o ângulo mesmo em temas parecidos.
 
+## Teste interior de SP (12/11 a 25/11)
+Hipótese: sem mídia paga, o mercado brasileiro converte mais rápido que o de fora. Durante o teste, a grade muda para 1 Reel Brasil por dia (12h) e 1 Reel internacional por dia, em rodízio EUA (18h), Portugal e Espanha (10h) e Austrália (19h). Isso vale acima da contagem semanal da tabela de mercados.
+
+- Público dos Reels Brasil: dono de PME do interior de SP, decisor, que já anuncia ou quer anunciar. O ticket mínimo ainda será definido pelo Cristiano. Até lá, não cite valor de contrato.
+- Conteúdo: serviços da Ignite na prática (como operamos, lemos a conta, montamos relatório, decidimos verba), falando com o dono do negócio. Não cite cidade, região nem "interior" na tela, na legenda ou nas hashtags. Use as hashtags do Brasil.
+- Moeda R$, exemplos rotulados como exemplo, CTA RAIO-X. Continua valendo: sem argumento de câmbio no Brasil, sem case ou resultado inventado.
+- Medição: no resumo diário, compare Brasil x internacional em alcance, views, comentários, compartilhamentos e comentários com RAIO-X/CÂMBIO. Em 26/11, entregue ao Cristiano um balanço das duas semanas com recomendação de manter, ajustar ou voltar à grade anterior.
+
 ## Cronograma
 Siga `sistema/CRONOGRAMA.md` para data, horário, região e tema. Se um tema não puder ser sustentado com fonte, troque por outro da mesma região e informe no resumo.
 
