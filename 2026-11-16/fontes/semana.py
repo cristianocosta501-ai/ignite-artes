@@ -7,7 +7,7 @@ from criador import *
 AV = pathlib.Path("/home/claude/linkedin/avatar/avatar.png").as_uri()
 OUT = "html2"; os.makedirs(OUT, exist_ok=True)
 def w(n, h): open(f"{OUT}/{n}.html", "w").write(h)
-def av(x, y, s=170, rot=6): return f'<img class="ab" src="{AV}" style="left:{x}px;top:{y}px;width:{s}px;height:{s}px;transform:rotate({rot}deg);filter:drop-shadow(0 14px 12px rgba(20,21,24,.35))">'
+def av(x, y, s=170, rot=6): return ""  # avatar entra quando o Cristiano aprovar o selo
 def big(t, top, size, color=INK): return f'<div class="big" style="top:{top}px;font-size:{size}px;color:{color}">{t}</div>'
 def sub(t, top, size=54): return f'<div class="sub" style="top:{top}px;font-size:{size}px">{t}</div>'
 def org(h): return f'<div class="org" style="height:{h}px"></div>'
