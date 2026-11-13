@@ -38,13 +38,21 @@ def step(i, title, text, lk, lv):
 {OBJ[i]}<div class="look"><small>{lk}</small><b>{lv}</b></div>{dots(i + 2, T)}<div class="nx">arrasta →</div>""", xc)
 
 # 1 capa
+scr = f"""<div style="padding:12px 14px 0;background:#fff"><div style="height:34px;border-radius:17px;background:#F1F2F4;display:flex;align-items:center;gap:8px;padding:0 12px;font-size:12.5px;font-weight:500"><span style="width:10px;height:10px;border:2px solid #14171C;border-radius:50%"></span>encanador urgente</div>
+<div style="display:flex;gap:14px;font-size:10.5px;font-weight:600;padding:10px 4px 8px;color:#6B7280"><span style="color:#14171C;border-bottom:2px solid {OR};padding-bottom:6px">Todos</span><span>Mapas</span><span>Imagens</span></div></div>
+<div style="margin:8px 10px;background:#fff;border-radius:12px;padding:10px 12px;box-shadow:0 0 0 1.5px {OR}"><span style="font-size:9px;font-weight:700;background:#14171C;color:#fff;border-radius:4px;padding:2px 5px">Patrocinado</span><div style="font-weight:700;font-size:13.5px;margin-top:6px;line-height:1.15">Seu negócio aparece aqui</div><div style="font-size:10.5px;color:#6B7280;margin-top:3px">Atendimento hoje · Orçamento pelo WhatsApp</div><div style="margin-top:8px;display:inline-block;background:{OR};color:#fff;font-size:10.5px;font-weight:700;border-radius:8px;padding:5px 10px">Ligar agora</div></div>
+<div style="margin:8px 10px;background:#fff;border-radius:12px;padding:10px 12px"><span style="font-size:9px;font-weight:700;background:#14171C;color:#fff;border-radius:4px;padding:2px 5px">Patrocinado</span><div style="font-weight:700;font-size:13px;margin-top:6px">Concorrente A</div><div style="height:6px;border-radius:3px;background:#E5E7EB;margin-top:7px;width:86%"></div><div style="height:6px;border-radius:3px;background:#E5E7EB;margin-top:5px;width:60%"></div></div>
+<div style="margin:8px 10px;height:92px;border-radius:12px;background:#DDE7DD;position:relative;overflow:hidden"><i style="position:absolute;left:-20px;top:40px;width:320px;height:9px;background:#fff;transform:rotate(-12deg)"></i><i style="position:absolute;left:120px;top:-20px;width:9px;height:160px;background:#fff;transform:rotate(18deg)"></i><i style="position:absolute;left:150px;top:30px;width:18px;height:18px;border-radius:50% 50% 50% 0;background:{OR};transform:rotate(-45deg)"></i><i style="position:absolute;left:60px;top:54px;width:14px;height:14px;border-radius:50% 50% 50% 0;background:#14171C;transform:rotate(-45deg)"></i></div>
+<div style="margin:8px 10px;background:#fff;border-radius:12px;padding:10px 12px"><div style="height:6px;border-radius:3px;background:#E5E7EB;width:70%"></div><div style="height:6px;border-radius:3px;background:#E5E7EB;margin-top:6px;width:90%"></div><div style="height:6px;border-radius:3px;background:#E5E7EB;margin-top:6px;width:50%"></div></div>"""
 b = f"""{org(600)}{chip(N)}{logo()}
 {big("Google ou", 150, 150)}{big("Instagram?", 282, 150, OR)}
-{sub("Onde seu cliente procura primeiro, por tipo de negócio.", 470, 50, "right:120px;line-height:1.12")}
-{tag("encanador", "w", 62, 800, -4, 40)}{tag("clínica", "k", 372, 814, 3, 40)}{tag("moda", "w", 622, 796, -3, 40)}
-{tag("restaurante", "k", 96, 910, 2, 40)}{tag("curso", "w", 452, 920, -2, 40)}{tag("reforma", "k", 672, 914, 4, 40)}
-{blk("antes de pagar <em>anúncios no Google</em>", 1030, 60, -1.5, 46)}
-{pill("arrasta e ache o seu →", 1150)}{dots(1, T)}"""
+{sub("Onde seu cliente procura primeiro, por tipo de negócio.", 470, 50, "right:400px;line-height:1.12")}
+{tag("encanador", "w", 62, 800, -4, 40)}{tag("clínica", "k", 372, 814, 3, 40)}
+{tag("moda", "k", 70, 892, 2, 40)}{tag("restaurante", "w", 262, 900, -3, 40)}
+{phone(scr, 716, 506, 6, 1.16)}
+{blk("antes de pagar", 1000, 60, -1.5, 54)}{blk("<em>anúncios no Google</em>", 1072, 76, 1, 54)}
+{pill("arrasta e ache o seu →", 1168)}
+{foot("Tela ilustrativa")}"""
 w("s1", page(b, xc))
 # 2 tensão (laranja)
 b = f"""{chip(N)}{logo()}
