@@ -1,0 +1,81 @@
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-Regular.otf");font-weight:400}
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-Medium.otf");font-weight:500}
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-SemiBold.otf");font-weight:600}
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-Bold.otf");font-weight:700}
+@font-face{font-family:"IT";src:url("/usr/share/fonts/opentype/inter/Inter-Regular.otf");font-weight:400}
+@font-face{font-family:"IT";src:url("/usr/share/fonts/opentype/inter/Inter-Medium.otf");font-weight:500}
+@font-face{font-family:"IT";src:url("/usr/share/fonts/opentype/inter/Inter-SemiBold.otf");font-weight:600}
+@font-face{font-family:"SR";src:url("../fonts/InstrumentSerif-Regular.woff2");font-style:normal}
+@font-face{font-family:"SR";src:url("../fonts/InstrumentSerif-Italic.woff2");font-style:italic}
+@font-face{font-family:"MO";src:url("../fonts/PlexMono-400.woff2");font-weight:400}
+@font-face{font-family:"MO";src:url("../fonts/PlexMono-500.woff2");font-weight:500}
+
+:root{
+  --paper:#F3F1EC; --paper-2:#E9E6DF; --card:#FBFAF7;
+  --ink:#141518; --ink-2:#34373C; --mute:#77797E; --line:#D6D2C9;
+  --dark:#141518; --dark-2:#1E2024; --dark-line:#33363B; --dark-mute:#8E9096;
+  --ember:#D9480F; --ember-hi:#FA581A; --ember-soft:#F6DED2;
+  --pad:88px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{background:var(--paper)}
+body{font-family:"IT";color:var(--ink);-webkit-font-smoothing:antialiased;font-feature-settings:"ss01","cv11","tnum" 0}
+.frame{width:1080px;height:1350px;position:relative;overflow:hidden;background:var(--paper);padding:84px var(--pad) 0}
+.frame.dark{background:var(--dark);color:#F1EFEA}
+.frame.wide{width:1920px;height:1080px;padding:96px 120px 0}
+
+/* masthead */
+.mast{display:flex;justify-content:space-between;align-items:baseline;font-family:"MO";font-size:20px;letter-spacing:.14em;text-transform:uppercase;color:var(--mute);padding-bottom:22px;border-bottom:1.5px solid var(--ink)}
+.dark .mast{border-color:#F1EFEA;color:var(--dark-mute)}
+.mast b{font-weight:500;color:var(--ink)}
+.dark .mast b{color:#F1EFEA}
+.mast .tag{color:var(--ember)}
+.dark .mast .tag{color:var(--ember-hi)}
+
+/* type */
+.kicker{font-family:"MO";font-size:20px;letter-spacing:.12em;text-transform:uppercase;color:var(--mute)}
+.h1{font-family:"ID";font-weight:600;font-size:78px;line-height:1.02;letter-spacing:-.028em}
+.h2{font-family:"ID";font-weight:600;font-size:58px;line-height:1.05;letter-spacing:-.024em}
+.h3{font-family:"ID";font-weight:600;font-size:38px;line-height:1.12;letter-spacing:-.018em}
+.lead{font-family:"IT";font-size:31px;line-height:1.38;color:var(--ink-2);letter-spacing:-.006em}
+.dark .lead{color:#C9C7C2}
+.body{font-size:27px;line-height:1.45;color:var(--ink-2)}
+.dark .body{color:#C9C7C2}
+.serif{font-family:"SR";font-weight:400;letter-spacing:-.01em}
+.it{font-style:italic}
+.em{color:var(--ember)}
+.dark .em{color:var(--ember-hi)}
+.mono{font-family:"MO"}
+
+/* footer signature */
+.sig{position:absolute;left:var(--pad);right:var(--pad);bottom:56px;display:flex;justify-content:space-between;align-items:center;padding-top:22px;border-top:1px solid var(--line)}
+.dark .sig{border-color:var(--dark-line)}
+.wide .sig{left:120px;right:120px}
+.sig .who{display:flex;flex-direction:column;gap:4px}
+.sig .name{font-family:"ID";font-weight:600;font-size:24px;letter-spacing:-.01em}
+.sig .role{font-size:19px;color:var(--mute)}
+.dark .sig .role{color:var(--dark-mute)}
+.sig .brand{display:flex;align-items:center;gap:10px;font-family:"MO";font-size:18px;letter-spacing:.1em;text-transform:uppercase;color:var(--mute)}
+.dark .sig .brand{color:var(--dark-mute)}
+.sig .brand svg{height:24px;width:auto}
+.folio{font-family:"MO";font-size:18px;color:var(--mute);letter-spacing:.08em}
+.dark .folio{color:var(--dark-mute)}
+
+.source{font-family:"MO";font-size:17px;line-height:1.5;color:var(--mute);letter-spacing:.01em}
+.dark .source{color:var(--dark-mute)}
+.note{display:inline-block;font-family:"MO";font-size:16px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-2);border:1px solid var(--line);padding:6px 10px;border-radius:3px;background:var(--card)}
+.dark .note{background:transparent;border-color:var(--dark-line);color:var(--dark-mute)}
+
+/* ui cards (UX/UI mock) */
+.ui{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:0 1px 0 rgba(20,21,24,.04),0 12px 28px -18px rgba(20,21,24,.25)}
+.ui .bar{display:flex;align-items:center;justify-content:space-between;padding:16px 20px;border-bottom:1px solid var(--line);font-family:"IT";font-weight:500;font-size:19px;color:var(--ink-2)}
+.ui .bar .dot{width:9px;height:9px;border-radius:50%;background:#C9C5BC;display:inline-block;margin-right:10px}
+.ui .cell{padding:20px}
+.ui .lbl{font-size:17px;color:var(--mute);margin-bottom:6px}
+.ui .val{font-family:"ID";font-weight:600;font-size:54px;letter-spacing:-.02em;font-variant-numeric:tabular-nums}
+.chip{display:inline-flex;align-items:center;gap:8px;font-family:"IT";font-weight:500;font-size:16px;padding:5px 10px;border-radius:999px;background:var(--paper-2);color:var(--ink-2)}
+.chip.ok{background:#E3EEE6;color:#2D5B3A}
+.chip.warn{background:var(--ember-soft);color:#8A2E08}
+
+.rule{height:1px;background:var(--line)}
+.dark .rule{background:var(--dark-line)}
