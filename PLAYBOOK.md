@@ -40,15 +40,20 @@ Formatos na semana: pelo menos 2 carrosséis e 2 estáticos.
 - Ignit Agency: fundada em 01/09/2026 pelo Cristiano (fundador e CEO). Performance, criação, dashboards e B.I., sites. Palavra-chave de oferta: RAIO-X (auditoria de conta).
 Nunca inventar número, cliente, case ou processo. Exemplo numérico só com o rótulo "exemplo ilustrativo" ou "números redondos" e conta conferida.
 
-## 6. Sistema visual (pasta sistema/)
-- base.css: papel #F3F1EC, grafite #141518, laranja Ignite #D9480F (fundo claro) e #FA581A (fundo escuro), usado só como destaque.
-- Tipografia: Inter Display (títulos), Inter (texto), Instrument Serif (citações, numerais grandes), IBM Plex Mono (rótulos, datas, fontes). Fontes extras em fonts/.
-- Toda peça: cabeçalho em mono com categoria e data, linha de 1,5 px, assinatura "Cristiano Pereira · Growth & Performance · Mídia paga" e raio + "Ignit Agency" discretos no rodapé.
-- Componentes: linha do tempo, cartões de interface (UI), gráfico de barras divergente, blocos de dado, citação em serif, numeral grande em carrossel, caixa "O que eu olho".
-- Proibido: degradê, brilho, ícone genérico, foto de banco, ilustração 3D, logo de outra empresa, foto de pessoa pública, reprodução de peça publicitária de terceiros.
-- Render: parts.py (componentes), render.py png arquivo.html saida.png [w h], carrossel.py saida.pdf p1.html p2.html ... (rasteriza em 2x e monta o PDF com img2pdf).
-- Conferência obrigatória: abrir cada PNG e uma folha de contato de cada carrossel; nada vazando da margem, nada sobreposto, contraste ok, rótulos inteiros.
-- Higiene: limpar metadados (PNG re-salvo com Pillow, PDF sem docinfo e XMP via pikepdf) antes de publicar.
+## 6. Sistema visual (linguagem "criador", aprovada pelo Cristiano em 13/11/2026)
+Referências que ele enviou: carrosséis e vídeos de criadores no Instagram, com título gigante, adesivos, cor chapada e tom de conversa. O padrão editorial bege anterior foi reprovado por "cara de IA".
+- Assinatura: SEMPRE o logo da Ignite (selo com raio + IGNIT AGENCY, no canto superior direito). NUNCA o nome do Cristiano na arte.
+- Avatar: selo redondo em traço preto e branco feito de foto dele (avatar/avatar.png). Entra em toda capa e em todo estático, como adesivo levemente girado. Ele quer o traço nítido; se enviar foto nova em boa resolução, refazer o selo.
+- Paleta: off-white #F3F2EF com grade de pontos, grafite #141518 e laranja #F6490D chapado (faixa inferior ou página inteira). Nada de degradê de fundo.
+- Tipografia: Inter Display Bold em maiúsculas para o título gigante (120 a 200 px em 1080 de largura), frase de apoio em peso médio, IBM Plex Mono em rótulos e fontes, Caveat para a pílula manuscrita.
+- Componentes (sistema/criador.py): chip do assunto, logo, título gigante, etiquetas de preço (branca, laranja, preta, com texto riscado), cartões-adesivo, blocos pretos de frase com palavra em laranja, pílula manuscrita com seta, celular com tela desenhada, círculo numerado, cartão "o que eu olho", pontos de página.
+- Composição: tudo levemente girado (1 a 6 graus), com sombra, sobrepondo a divisa entre off-white e laranja. Uma cena que mostra o assunto (tela de anúncio, comprovante, conversa com IA, painel), nunca só texto e gráfico.
+- Tom do texto na arte: conversa direta e curta ("mas o risco continua com o anunciante"). O texto do post segue a seção 4.
+- Marcas e telas de terceiros: sempre ilustrativas e fictícias (ex.: "Aura Garrafas", "Loja Exemplo"), com o aviso "ilustrativo" na linha de fonte. Sem logo, peça ou tela copiada de outra empresa, sem foto de pessoa pública.
+- Varie a cena e a disposição a cada peça; mantenha a linguagem.
+- Render: sistema/render.py png arquivo.html saida.png [w h]; sistema/carrossel.py saida.pdf p1.html ... (PDF 1080x1350). Exemplos completos em 2026-11-16/fontes/semana.py (ajuste os caminhos absolutos para o clone).
+- Conferência obrigatória: abrir cada PNG e uma folha de contato de cada carrossel; nada sobreposto ao título, nada cortado, rodapé em uma linha.
+- Higiene: limpar metadados (PNG re-salvo com Pillow, PDF sem docinfo e XMP via pikepdf).
 
 ## 7. Publicação
 - Mídias vão para este ramo (linkedin), pasta AAAA-MM-DD da segunda-feira da semana. Links raw fixados no SHA do commit; conferir que cada link responde 200 antes de agendar.
