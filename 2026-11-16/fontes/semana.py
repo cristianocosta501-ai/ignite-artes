@@ -7,7 +7,7 @@ from criador import *
 AV = pathlib.Path("/home/claude/linkedin/avatar/avatar.png").as_uri()
 OUT = "html2"; os.makedirs(OUT, exist_ok=True)
 def w(n, h): open(f"{OUT}/{n}.html", "w").write(h)
-def av(x, y, s=170, rot=6): return ""  # avatar entra quando o Cristiano aprovar o selo
+def av(x, y, s=170, rot=6): return f'<img class="ab" src="{AV}" style="left:{x}px;top:{y}px;width:{s}px;height:{s}px;transform:rotate({rot}deg);filter:drop-shadow(0 14px 12px rgba(20,21,24,.35))">'
 def big(t, top, size, color=INK): return f'<div class="big" style="top:{top}px;font-size:{size}px;color:{color}">{t}</div>'
 def sub(t, top, size=54): return f'<div class="sub" style="top:{top}px;font-size:{size}px">{t}</div>'
 def org(h): return f'<div class="org" style="height:{h}px"></div>'
@@ -79,11 +79,11 @@ w("p5_blackfriday", page(b, CSS + x5))
 xc = """.wrap{position:absolute;left:60px;right:60px;top:404px}.wrap .st{position:static;font-size:106px}.wrap .sb{position:static;margin-top:34px;padding-right:40px;font-size:47px}
 .look{padding:30px 34px;bottom:130px}.look small{font-size:19px;margin-bottom:10px}.look b{font-size:38px}
 .rcp{position:absolute;left:60px;right:60px;background:#fff;border-radius:24px;padding:10px 28px;box-shadow:0 22px 26px -14px rgba(20,21,24,.5);transform:rotate(-1deg)}
-.rcp div{display:grid;grid-template-columns:64px 1fr;padding:15px 0;border-bottom:1.500px solid #ECEAE5;font-weight:600;font-size:32px;letter-spacing:-.02em}.rcp div:last-child{border:0}.rcp span{font-family:"MO";font-weight:500;color:#F6490D;font-size:24px;padding-top:5px}
+.rcp div{display:grid;grid-template-columns:64px 1fr;padding:15px 0;border-bottom:1.500px solid #ECEAE5;font-weight:600;font-size:32px;letter-spacing:-.02em}.rcp div:last-child{border:0}.rcp span{font-family:"MO";font-weight:500;color:#D9480F;font-size:24px;padding-top:5px}
 .bars{position:absolute;left:60px;right:60px;top:560px;background:#fff;border-radius:26px;padding:70px 40px 26px;box-shadow:0 22px 26px -14px rgba(20,21,24,.45);transform:rotate(-1deg)}
 .gb{display:grid;grid-template-columns:repeat(3,1fr);gap:30px;align-items:end;height:340px;border-bottom:2px solid #141518}
 .gb .g{display:flex;gap:12px;align-items:flex-end;justify-content:center;height:100%}.gb .b{width:84px;border-radius:8px 8px 0 0;position:relative}
-.gb .b span{position:absolute;top:-38px;left:0;right:0;text-align:center;font-weight:700;font-size:28px}.gb .a{background:#C9C6BE}.gb .d{background:#F6490D}
+.gb .b span{position:absolute;top:-38px;left:0;right:0;text-align:center;font-weight:700;font-size:28px}.gb .a{background:#C9C6BE}.gb .d{background:#D9480F}
 .gl{display:grid;grid-template-columns:repeat(3,1fr);gap:30px;padding-top:14px;font-weight:700;font-size:30px;text-align:center}
 .lgd{display:flex;gap:26px;margin-top:20px;font-family:"MO";font-size:16px}.lgd i{display:inline-block;width:14px;height:14px;border-radius:3px;margin-right:8px;vertical-align:-2px}"""
 
@@ -138,7 +138,7 @@ b = f"""{chip(N2)}{logo()}
  <div class="g"><div class="b a" style="height:150px"><span>100</span></div><div class="b d" style="height:300px"><span>200</span></div></div>
  <div class="g"><div class="b a" style="height:150px"><span>100</span></div><div class="b d" style="height:165px"><span>110</span></div></div></div>
  <div class="gl"><div>Verba</div><div>Leads</div><div>Vendas</div></div>
- <div class="lgd"><span><i style="background:#C9C6BE"></i>antes</span><span><i style="background:#F6490D"></i>depois do aumento</span><span style="margin-left:auto">índice · exemplo ilustrativo</span></div></div>
+ <div class="lgd"><span><i style="background:#C9C6BE"></i>antes</span><span><i style="background:#D9480F"></i>depois do aumento</span><span style="margin-left:auto">índice · exemplo ilustrativo</span></div></div>
 {dots(8, 9)}<div class="nx">arrasta →</div>"""
 w("c6_08", page(b, xc))
 b = f"""{chip(N2)}{logo()}{av(60, 150, 200, -5)}
@@ -160,7 +160,7 @@ b = f"""<div class="org" style="left:1180px;top:0;height:auto"></div>{chip("Arti
 <svg width="692" height="380" viewBox="0 0 692 380" fill="none" style="display:block;margin-top:18px"><g stroke="#ECEAE5" stroke-width="1.5"><line x1="0" x2="692" y1="40" y2="40"/><line x1="0" x2="692" y1="140" y2="140"/><line x1="0" x2="692" y1="240" y2="240"/><line x1="0" x2="692" y1="340" y2="340"/></g>
 <line x1="230" x2="230" y1="16" y2="350" stroke="#141518" stroke-width="1.5" stroke-dasharray="5 7"/><text x="242" y="30" fill="#141518" font-family="MO" font-size="16">corte da verba de marca</text>
 <path d="M0 80 C120 78 200 82 230 84 C320 92 420 150 520 200 C590 236 650 252 692 262" stroke="#141518" stroke-width="5" stroke-linecap="round"/>
-<path d="M0 300 C120 302 200 298 230 296 C330 290 420 250 520 200 C590 166 650 140 692 120" stroke="#F6490D" stroke-width="5" stroke-linecap="round"/></svg>
-<div class="lg"><span><i style="background:#141518"></i>busca pela marca</span><span><i style="background:#F6490D"></i>custo por venda</span></div></div>"""
+<path d="M0 300 C120 302 200 298 230 296 C330 290 420 250 520 200 C590 166 650 140 692 120" stroke="#D9480F" stroke-width="5" stroke-linecap="round"/></svg>
+<div class="lg"><span><i style="background:#141518"></i>busca pela marca</span><span><i style="background:#D9480F"></i>custo por venda</span></div></div>"""
 w("art_capa", page(b, xa, "fr wide"))
 print("ok")
