@@ -14,3 +14,8 @@
 - Pista fora da regra (post não aberto, por isso sem comentário pronto): Bram Van der Hallen (Edge.be), post em inglês sobre anúncio da Meta com até 5 posts existentes. Data de 17/11/2026 conferida pelo ID da publicação e pela matéria da PPC Land do mesmo dia. https://www.linkedin.com/posts/bramvanderhallen_new-meta-ads-update-you-can-now-add-up-share-7528355672690896898-nZzE/
 - Terceiro dia seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
 - Lista de alvos sem alterações; nenhum nome novo nesta semana.
+
+## 2026-11-19 (quinta)
+- Nenhum post sugerido. Cinco buscas (Black Friday, Meta Ads, Google Ads, CPM, nomes da lista e busca pelo prefixo de ID das publicações desta semana) só devolveram posts do LinkedIn de 2017 a 2023. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
+- Quarto dia seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
+- Lista de alvos sem alterações; nenhum nome novo nesta semana.
