@@ -1,0 +1,135 @@
+<!doctype html><html lang="pt-BR"><head><meta charset="utf-8"><style>
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-Medium.otf");font-weight:500}
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-SemiBold.otf");font-weight:600}
+@font-face{font-family:"ID";src:url("/usr/share/fonts/opentype/inter/InterDisplay-Bold.otf");font-weight:700}
+@font-face{font-family:"IT";src:url("/usr/share/fonts/opentype/inter/Inter-Regular.otf");font-weight:400}
+@font-face{font-family:"IT";src:url("/usr/share/fonts/opentype/inter/Inter-Medium.otf");font-weight:500}
+@font-face{font-family:"IT";src:url("/usr/share/fonts/opentype/inter/Inter-SemiBold.otf");font-weight:600}
+@font-face{font-family:"MO";src:url("file:///home/claude/li/fonts/PlexMono-400.woff2");font-weight:400}
+@font-face{font-family:"MO";src:url("file:///home/claude/li/fonts/PlexMono-500.woff2");font-weight:500}
+@font-face{font-family:"HW";src:url("file:///home/claude/li/fonts/Caveat-600.woff2")}
+*{box-sizing:border-box;margin:0;padding:0}
+body{-webkit-font-smoothing:antialiased;font-family:"ID";color:#141518}
+.fr{width:1080px;height:1350px;position:relative;overflow:hidden;background:#F3F2EF}
+.fr.wide{width:1920px;height:1080px}
+.fr.o{background:#D9480F}
+.dots{position:absolute;inset:0;background-image:radial-gradient(rgba(20,21,24,.16) 1.300px,transparent 1.600px);background-size:30px 30px}
+.o .dots{background-image:radial-gradient(rgba(0,0,0,.11) 1.300px,transparent 1.600px)}
+.org{position:absolute;left:0;right:0;bottom:0;background:#D9480F}
+.org:before{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(0,0,0,.10) 1.300px,transparent 1.600px);background-size:30px 30px}
+.ab{position:absolute}
+.chipt{position:absolute;left:64px;top:60px;display:flex;align-items:center;gap:10px;background:#141518;color:#fff;font-weight:600;font-size:24px;padding:10px 18px 10px 14px;border-radius:14px;transform:rotate(-2deg);box-shadow:0 8px 14px -6px rgba(20,21,24,.45);white-space:nowrap}
+.chipt i{width:14px;height:14px;border-radius:50%;background:#D9480F}
+.o .chipt i{background:#fff}
+.logo{position:absolute;right:60px;top:56px;display:flex;align-items:center;gap:10px;background:#fff;border-radius:999px;padding:9px 20px 9px 12px;font-weight:700;font-size:22px;letter-spacing:.02em;box-shadow:0 8px 14px -6px rgba(20,21,24,.45);transform:rotate(1.500deg)}
+.logo span{width:40px;height:40px;border-radius:50%;background:#141518;display:grid;place-items:center}.logo svg{height:26px}
+.big{position:absolute;left:60px;font-weight:700;line-height:.86;letter-spacing:-.045em;text-transform:uppercase}
+.sub{position:absolute;left:66px;font-weight:500;font-size:54px;letter-spacing:-.025em;line-height:1.05}
+.tagp{position:absolute;font-weight:700;font-size:40px;letter-spacing:-.02em;padding:12px 22px 12px 38px;clip-path:polygon(22px 0,100% 0,100% 100%,22px 100%,0 50%);white-space:nowrap}
+.tagw{position:absolute;filter:drop-shadow(0 10px 8px rgba(20,21,24,.28))}
+.tagp{position:relative}
+.tagp:before{content:"";position:absolute;left:18px;top:50%;width:10px;height:10px;border-radius:50%;transform:translateY(-50%);background:#F3F2EF}
+.tagp.w{background:#fff;color:#141518}.tagp.w:before{background:#D9480F}
+.tagp.o{background:#D9480F;color:#fff}
+.tagp.k{background:#141518;color:#fff}.tagp.k:before{background:#D9480F}
+.tagp s{text-decoration-thickness:4px;text-decoration-color:#D9480F}
+.tc{position:absolute;background:#fff;border-radius:22px;padding:18px 22px;display:flex;align-items:center;gap:16px;box-shadow:0 2px 0 rgba(20,21,24,.08),0 22px 26px -14px rgba(20,21,24,.45)}
+.tc b{display:block;font-weight:600;font-size:27px;letter-spacing:-.02em;line-height:1.08}
+.tc small{display:block;font-family:"MO";font-size:14px;letter-spacing:.08em;color:#8A4B06;margin-top:6px;text-transform:uppercase}
+.tc .n{font-weight:700;font-size:64px;letter-spacing:-.04em;line-height:.9}
+.tc u{flex:none;width:74px;height:42px;border-radius:21px;background:#D9480F;position:relative;margin-left:auto}
+.tc u:after{content:"";position:absolute;right:4px;top:4px;width:34px;height:34px;border-radius:50%;background:#fff;box-shadow:0 2px 4px rgba(0,0,0,.25)}
+.blk{position:absolute;left:60px;font-weight:700;font-size:56px;letter-spacing:-.03em;line-height:1;background:#141518;color:#fff;padding:14px 22px 16px;border-radius:16px;white-space:nowrap}
+.blk em{font-style:normal;color:#FF7A3D}
+.pill{position:absolute;left:66px;background:#fff;border-radius:999px;padding:8px 26px 12px;font-family:"HW";font-size:40px;color:#141518;transform:rotate(-2deg);box-shadow:0 10px 14px -8px rgba(20,21,24,.5);white-space:nowrap}
+.foot{position:absolute;left:64px;right:64px;bottom:34px;font-family:"MO";font-size:13px;letter-spacing:.03em;color:rgba(20,21,24,.8);white-space:nowrap}
+.hw{position:absolute;font-family:"HW";font-size:44px;line-height:.95;color:#D9480F}
+.o .hw{color:#fff}
+/* celular */
+.ph{position:absolute;width:268px;height:556px;background:linear-gradient(145deg,#2A2C30,#0E0F11);border-radius:44px;padding:10px;box-shadow:0 0 0 1.500px #3A3D42 inset,0 60px 60px -36px rgba(20,21,24,.7),18px 30px 50px -20px rgba(20,21,24,.35)}
+.ps{background:#F3F4F6;border-radius:35px;height:100%;overflow:hidden;position:relative;font-family:"IT";color:#14171C}
+.ps:after{content:"";position:absolute;inset:0;background:linear-gradient(125deg,rgba(255,255,255,.22) 0%,rgba(255,255,255,0) 30%);pointer-events:none}
+.pst{height:40px;display:flex;align-items:center;justify-content:space-between;padding:6px 22px 0;background:#fff;font-size:11.500px;font-weight:600}
+.pisl{position:absolute;left:50%;top:9px;transform:translateX(-50%);width:76px;height:22px;border-radius:12px;background:#0B0C0D}
+.pic{display:flex;align-items:flex-end;gap:2px}.pic i{width:3px;background:#14171C;border-radius:1px}.pic i:nth-child(1){height:4px}.pic i:nth-child(2){height:6px}.pic i:nth-child(3){height:8px}.pic i:nth-child(4){height:10px}
+.pic u{width:20px;height:10px;border:1.200px solid #14171C;border-radius:3px;margin-left:5px;position:relative}.pic u:after{content:"";position:absolute;inset:1.500px;right:5px;background:#14171C;border-radius:1px}
+/* carrossel */
+.num{position:absolute;left:60px;top:150px;width:210px;height:210px;border-radius:50%;background:#D9480F;color:#fff;display:grid;place-items:center;font-weight:700;font-size:150px;letter-spacing:-.05em;transform:rotate(-6deg);box-shadow:0 22px 26px -14px rgba(20,21,24,.5)}
+.st{position:absolute;left:60px;right:60px;top:410px;font-weight:700;font-size:92px;line-height:.92;letter-spacing:-.04em;text-transform:uppercase}
+.sb{position:absolute;left:64px;right:120px;font-weight:500;font-size:40px;line-height:1.18;letter-spacing:-.02em}
+.look{position:absolute;left:60px;right:90px;bottom:120px;background:#fff;border-radius:24px;padding:24px 28px;transform:rotate(-1.500deg);box-shadow:0 2px 0 rgba(20,21,24,.08),0 22px 26px -14px rgba(20,21,24,.45)}
+.look small{display:block;font-family:"MO";font-size:16px;letter-spacing:.1em;text-transform:uppercase;color:#D9480F;margin-bottom:8px}
+.look b{font-weight:600;font-size:31px;line-height:1.15;letter-spacing:-.02em}
+.pg{position:absolute;left:64px;bottom:50px;display:flex;gap:8px}.pg i{width:12px;height:12px;border-radius:50%;background:rgba(20,21,24,.18)}.pg i.on{background:#141518}
+.nx{position:absolute;right:60px;bottom:38px;font-family:"HW";font-size:36px}
+
+.pn{background:#fff;border-radius:24px;padding:22px 26px;box-shadow:0 2px 0 rgba(20,21,24,.08),0 26px 30px -16px rgba(20,21,24,.5);font-family:"IT";color:#141518}
+.pn .hd{display:flex;justify-content:space-between;align-items:center;font-family:"MO";font-size:15px;letter-spacing:.09em;text-transform:uppercase;color:#6B6E73;margin-bottom:14px}
+.mono{font-family:"MO"}
+/* barras */
+.bc{display:flex;gap:34px;align-items:flex-end;height:260px;border-bottom:2px solid #141518;padding:0 10px}
+.bc .g{flex:1;display:flex;gap:10px;align-items:flex-end;justify-content:center;height:100%}
+.bc .b{width:74px;border-radius:8px 8px 0 0;position:relative}.bc .b span{position:absolute;top:-36px;left:-20px;right:-20px;text-align:center;font-family:"ID";font-weight:700;font-size:28px}
+.bc .a{background:#C9C6BE}.bc .d{background:#D9480F}.bc .k{background:#141518}
+.bl{display:flex;gap:34px;padding:12px 10px 0}.bl div{flex:1;text-align:center;font-family:"ID";font-weight:600;font-size:24px}
+.lg{display:flex;gap:22px;margin-top:14px;font-family:"MO";font-size:14px;color:#55585D}.lg i{display:inline-block;width:13px;height:13px;border-radius:3px;margin-right:7px;vertical-align:-1px}
+/* semana */
+.wk{display:grid;grid-template-columns:repeat(7,1fr);gap:10px;align-items:end;height:250px}
+.wk div{border-radius:10px 10px 4px 4px;background:#E7E4DD;position:relative}
+.wk div.on{background:#D9480F}
+.wk div span{position:absolute;bottom:-34px;left:0;right:0;text-align:center;font-family:"MO";font-size:15px;color:#55585D}
+/* telas */
+.sc{height:calc(100% - 40px);background:#fff;display:flex;flex-direction:column;font-size:11px;line-height:1.3}
+.sch{padding:8px 12px;font-weight:600;font-size:13px;border-bottom:1px solid #ECEEF1;display:flex;align-items:center;gap:8px}
+.sch i{width:22px;height:22px;border-radius:7px;background:#141518;display:inline-block}
+.nt{margin:7px 9px 0;background:#F1F2F4;border-radius:12px;padding:8px 10px}
+.nt b{display:block;font-weight:600;font-size:11.5px}.nt span{color:#6B7280;font-size:10px}
+.nt em{font-style:normal;color:#C2410C;font-weight:600}
+.rep{padding:12px}.rep .sc1{display:flex;align-items:center;gap:10px;margin:6px 0 10px}
+.rep .nb{font-family:"ID";font-weight:700;font-size:40px;letter-spacing:-.03em}
+.rep .st{height:8px;border-radius:4px;background:#ECEEF1;margin:6px 0 2px;position:relative;overflow:hidden}.rep .st i{position:absolute;left:0;top:0;bottom:0;background:#23764A;border-radius:4px}
+.rep .rw{display:flex;justify-content:space-between;font-size:10.5px;color:#4B5563;margin-top:8px}
+.rep .rc{margin-top:10px;border:1px solid #ECEEF1;border-radius:10px;padding:8px}.rep .rc b{font-size:11px}.rep .rc p{color:#6B7280;font-size:10px;margin-top:3px}
+.rep .ok{display:inline-block;margin-top:5px;font-size:9.5px;font-weight:600;color:#23764A;background:#E7F4EC;border-radius:6px;padding:2px 6px}
+/* lista de checagem */
+.ck>div:not(.hd){display:grid;grid-template-columns:44px 1fr;align-items:center;padding:12px 0;border-bottom:1.5px solid #ECEAE5;font-family:"ID";font-weight:600;font-size:28px;letter-spacing:-.02em}
+.ck>div:last-child{border:0}.ck>div:not(.hd)>span{width:32px;height:32px;border-radius:8px;border:2.5px solid #141518;display:grid;place-items:center;font-size:20px}
+.ck>div:not(.hd)>span.y{background:#D9480F;border-color:#D9480F;color:#fff}
+/* url */
+.url{display:flex;align-items:center;gap:10px;background:#F1F2F4;border-radius:12px;padding:12px 16px;font-family:"MO";font-size:19px;color:#141518;white-space:nowrap}
+.url i{width:12px;height:12px;border-radius:50%;background:#23764A}.url b{color:#D9480F;font-weight:500}
+.tb{width:100%;border-collapse:collapse;margin-top:14px;font-family:"IT";font-size:20px}
+.tb th{font-family:"MO";font-weight:400;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:#6B6E73;text-align:left;padding:8px 6px;border-bottom:1.5px solid #ECEAE5}
+.tb td{padding:11px 6px;border-bottom:1.5px solid #F1EFEA}.tb tr:last-child td{border:0}
+.mt{display:inline-block;font-family:"MO";font-size:16px;font-weight:500;padding:3px 10px;border-radius:6px;background:#141518;color:#fff}
+.mt.a{background:#D9480F}
+/* painel */
+.kp{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.kp div{background:#F6F5F2;border-radius:16px;padding:14px 16px}
+.kp small{display:block;font-family:"MO";font-size:12.5px;letter-spacing:.07em;text-transform:uppercase;color:#6B6E73}
+.kp b{display:block;font-family:"ID";font-weight:700;font-size:40px;letter-spacing:-.03em;margin-top:4px}
+.kp em{font-style:normal;font-family:"MO";font-size:14px}.up{color:#23764A}.dn{color:#B42318}
+.kp div.w{grid-column:1/3;display:flex;justify-content:space-between;align-items:center}
+.kp .q{font-family:"HW";font-size:28px;color:#D9480F;display:block;margin-top:2px}
+/* conversa */
+.cv{margin:6px 9px 0;display:flex;gap:8px;align-items:center;padding:7px 4px;border-bottom:1px solid #F1F2F4}
+.cv i{width:30px;height:30px;border-radius:50%;background:#D1D5DB;flex:none}.cv b{display:block;font-size:11px}.cv span{color:#6B7280;font-size:9.5px}
+.cv u{margin-left:auto;text-decoration:none;background:#23764A;color:#fff;border-radius:9px;font-size:9px;font-weight:700;padding:1px 6px}
+/* crm */
+.crm td:last-child{font-family:"MO";color:#9A9DA2}
+/* fluxo */
+.fl{display:flex;align-items:center;gap:14px}
+.fl .bx{background:#fff;border-radius:20px;padding:18px 20px;box-shadow:0 22px 26px -14px rgba(20,21,24,.45);font-family:"ID";font-weight:700;font-size:30px;letter-spacing:-.02em;text-align:center;min-width:200px}
+.fl .bx small{display:block;font-family:"MO";font-weight:400;font-size:13px;letter-spacing:.08em;color:#6B6E73;text-transform:uppercase;margin-top:4px}
+.fl .ar{font-family:"HW";font-size:56px;color:#141518}
+.big2{position:absolute;left:60px;right:60px;font-weight:700;line-height:.88;letter-spacing:-.045em;text-transform:uppercase}
+</style></head><body><div class="fr"><div class="dots"></div><div class="org" style="height:470px"></div><div class="chipt"><i></i>Mensuração · CPL × venda</div><div class="logo"><span><svg xmlns="http://www.w3.org/2000/svg" viewBox="316 142 446 794"><path fill="#D9480F" d="M456,920 C462,913 470,902 476,896 C481,889 488,881 490,878 C496,872 504,862 532,827 C540,817 547,808 547,808 C547,808 549,806 551,803 C553,800 566,785 579,768 C593,752 608,733 614,726 C620,718 625,712 625,712 C625,712 632,704 640,694 C647,685 663,666 674,652 C685,638 700,620 706,612 C713,603 720,594 722,592 C734,577 759,546 759,545 C759,544 740,544 668,544 C607,544 576,544 576,543 C576,542 580,538 585,532 C616,499 640,461 651,428 C661,396 662,390 662,360 C662,342 662,334 661,327 C659,317 655,301 652,292 C648,279 638,256 636,256 C635,256 635,259 635,264 C635,272 633,287 630,294 C626,307 614,328 612,325 C611,324 611,317 611,310 C611,251 588,194 547,152 C543,147 541,146 541,148 C541,149 541,157 542,167 C545,211 538,260 524,298 C518,311 508,331 501,342 C492,356 492,356 492,343 C492,328 491,318 487,305 C484,294 478,282 477,282 C476,282 471,294 465,308 C449,349 446,356 438,376 C433,387 427,402 424,411 C416,428 404,460 394,485 C390,494 382,513 376,528 C370,542 362,563 357,574 C353,586 346,604 342,614 C338,623 331,639 327,649 C323,659 320,667 320,668 C321,669 338,669 406,669 C456,669 492,669 492,670 C493,670 492,675 491,681 C488,696 484,718 474,770 C469,797 464,824 462,831 C461,838 460,845 460,846 C459,848 457,858 456,868 C454,878 451,892 450,898 C449,904 447,913 446,919 C444,929 444,935 446,932 C446,932 451,926 456,920Z"/></svg></span>IGNIT AGENCY</div>
+<div class="big" style="top:150px;left:60px;font-size:140px;color:#141518">Campanha B</div><div class="sub" style="top:290px;font-size:46px;">Lead mais caro. Venda mais barata.</div>
+<div class="ab" style="left:440px;top:400px;transform:rotate(2.5deg) scale(1.05)"><div class="pn" style="width:520px"><div class="hd"><span>Campanha B</span><span>números redondos</span></div>
+<div style="display:flex;justify-content:space-between;font-family:'ID';font-weight:600;font-size:28px;padding:10px 0;border-bottom:1.5px solid #ECEAE5"><span>CPL</span><b>R$ 40</b></div>
+<div style="display:flex;justify-content:space-between;font-family:'ID';font-weight:600;font-size:28px;padding:10px 0;border-bottom:1.5px solid #ECEAE5"><span>leads por venda</span><b>8</b></div>
+<div style="display:flex;justify-content:space-between;align-items:center;font-family:'ID';font-weight:700;font-size:28px;padding:14px 0 4px"><span>custo por venda</span><b style="font-size:54px;letter-spacing:-.03em;color:#D9480F">R$ 320</b></div></div></div>
+<div class="tagw" style="left:62px;top:440px;transform:rotate(-4deg)"><div class="tagp k" style="font-size:40px">CPL alto</div></div>
+<div class="tc" style="left:60px;top:820px;width:600px;transform:rotate(-2deg)"><div class="n">40 × 8</div><div><b>= R$ 320 por venda</b><small>exemplo ilustrativo</small></div></div>
+<div class="blk" style="top:1040px;left:60px;transform:rotate(-1.5deg);font-size:56px">pelo caixa, a B custa</div><div class="blk" style="top:1118px;left:76px;transform:rotate(1deg);font-size:56px"><em>quase metade</em> por venda</div>
+<div class="pill" style="top:1204px;left:66px;transform:rotate(-2deg);font-size:36px">o CPL apontava o contrário →</div><div class="pg"><i class=""></i><i class=""></i><i class=""></i><i class=""></i><i class="on"></i><i class=""></i><i class=""></i><i class=""></i></div><div class="nx">arrasta →</div></div></body></html>

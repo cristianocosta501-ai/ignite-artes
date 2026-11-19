@@ -1,0 +1,59 @@
+{
+ "semana": "2026-11-23",
+ "posts": [
+  {
+   "data": "2026-11-23",
+   "hora": "08:00",
+   "formato": "carrossel",
+   "tema": "Black Friday: metade ainda indecisa",
+   "midia": "cbf_black-friday-metade-indecisa.pdf",
+   "documentTitle": "Black Friday: metade ainda não decidiu",
+   "texto": "A uma semana da Black Friday, metade dos consumidores ainda não tinha decidido se ia comprar.\n\nA pesquisa do Reclame Aqui divulgada em 18 de novembro mostra a mudança de agosto para novembro:\n\n1. Os decididos a comprar foram de 19% para 32,3%\n2. Os indecisos caíram de 61% para 51,6%\n3. 48,1% não definiram orçamento e vão acompanhar as ofertas ao longo do mês\n4. Só 17,4% pretendem concentrar as compras na sexta\n5. 76,1% dizem que vão consultar o Reclame Aqui durante o evento\n\nNa minha leitura, isso muda onde a verba desta semana rende mais. O consumidor compara ao longo do mês, e a sexta concentra uma parte pequena da decisão.\n\nO que eu faria com a verba desta semana:\n\n1. Proteger o remarketing de quem visitou e comparou\n2. Cortar o público frio que não converteu em outubro, com CPM mais baixo\n3. Distribuir a verba pelos dias da semana em vez de guardar tudo para a sexta\n4. Conferir a reputação da loja antes de subir lance, porque o cliente vai conferir\n\nNa sua conta, a verba da Black Friday está concentrada na sexta ou espalhada pela semana?\n\n#blackfriday #midiapaga #performance",
+   "primeiro_comentario": "Fonte: pesquisa do Reclame Aqui, via Mercado & Consumo, 18/11/2026: https://mercadoeconsumo.com.br/18/11/2026/ecommerce/black-friday-2026-fatia-de-consumidores-decididos-a-comprar-salta-para-323/\nA matéria não informa amostra nem datas de campo."
+  },
+  {
+   "data": "2026-11-24",
+   "hora": "08:00",
+   "formato": "estatico",
+   "tema": "AI Max: a exata deixou de ser exata",
+   "midia": "p_aimax.png",
+   "texto": "Quase 29% das impressões de palavra-chave exata já vinham do AI Max em julho, numa análise de e-commerce na região EMEA.\n\nO dado é da Smarter Ecommerce, citado pela PPC Land. E o relatório tinha um problema: o AI Max marcava a expansão com o tipo de correspondência da própria palavra-chave. Um clique \"exato\" podia ter vindo de uma busca que ninguém escolheu.\n\nAgora a ajuda do Google Ads lista um parâmetro de rastreio novo, o {search_term_matchtype}. Ele grava na URL do clique se a busca chegou pela palavra-chave (e, p ou b) ou por expansão do AI Max (a).\n\nNa minha leitura, quem ligou o AI Max precisa separar esse tráfego antes de avaliar a campanha. O que eu faria:\n\n1. Incluir o parâmetro no modelo de acompanhamento da conta\n2. Levar o valor para o GA4 ou para o CRM\n3. Comparar custo por venda entre clique de palavra-chave e clique de expansão\n4. Limitar a expansão onde ela vende pior\n\nA ressalva: as páginas de ajuda do Google ainda divergem sobre o método, e mudança no modelo leva de 24 a 48 horas para valer.\n\nVocê sabe quanto do seu tráfego \"exato\" veio do AI Max?\n\n#googleads #aimax #midiapaga #performance",
+   "primeiro_comentario": "Fontes:\nPPC Land, 15/11/2026: https://ppc.land/googles-new-parameter-shows-when-an-exact-click-was-really-ai-max/\nRelevant Audience, 12/11/2026: https://www.relevantaudience.com/google-ads-en/google-ads-search-term-matchtype-valuetrack-ai-max/\nGoogle Ads Help, parâmetros ValueTrack: https://support.google.com/google-ads/answer/2375447"
+  },
+  {
+   "data": "2026-11-25",
+   "hora": "08:00",
+   "formato": "video",
+   "tema": "O painel que abro toda segunda",
+   "midia": "p_painel_motion.mp4",
+   "texto": "Toda segunda de manhã abro o mesmo painel antes de qualquer reunião de cliente.\n\nEle tem cinco números, e cada um responde a uma pergunta:\n\n1. Investimento da semana: a verba saiu como planejado?\n2. Custo por venda ou por lead qualificado: a eficiência se manteve?\n3. Volume de vendas ou de leads qualificados: o resultado acompanhou a verba?\n4. Taxa de conversão do lead em venda: o gargalo está na mídia ou no comercial?\n5. Frequência e CTR dos criativos: está na hora de trocar peça?\n\nSe um número não muda nenhuma decisão, ele não entra no painel. Relatório com 40 métricas costuma esconder o único número que importa naquela semana.\n\nNo vídeo, o painel com números ilustrativos e a pergunta que cada bloco responde.\n\nQuais números entram no seu relatório semanal?\n\n#dashboard #midiapaga #growth",
+   "primeiro_comentario": ""
+  },
+  {
+   "data": "2026-11-26",
+   "hora": "08:00",
+   "formato": "carrossel",
+   "tema": "CPL de R$7 sem custo por venda (Sullato)",
+   "midia": "ccpl_cpl-de-7-reais.pdf",
+   "documentTitle": "CPL de R$7 e o custo da venda",
+   "texto": "Já tive conta com CPL de R$7 em que eu não sabia quanto custava cada venda.\n\nNa Sullato, com R$4 mil por mês somando duas contas, o custo por lead ficou em R$7, com 10 a 18 contatos por dia. Para quem anuncia veículo, é um número bom.\n\nO que faltava era o outro lado. O fechamento da venda não era informado. Eu sabia quanto custava cada contato, mas não quanto custava cada venda.\n\nPor isso defendo que o CPL seja só o começo da conversa. Um exemplo com números redondos:\n\nCampanha A: CPL de R$15 e 1 venda a cada 40 leads. Custo por venda de R$600.\nCampanha B: CPL de R$40 e 1 venda a cada 8 leads. Custo por venda de R$320.\n\nPelo CPL, a A parece melhor. Pelo caixa, a B custa quase metade por venda.\n\nO que eu defendo combinar antes de a campanha subir:\n\n1. Marcar no CRM qual lead virou oportunidade e qual virou venda\n2. Devolver esses eventos ao Google Ads e ao Meta Ads, por conversão offline ou integração\n3. Otimizar para a etapa mais funda do funil que tenha volume\n\nSem esse retorno, a plataforma segue buscando o lead mais barato.\n\nNa sua operação, a venda volta para a plataforma ou a mídia ainda é medida por CPL?\n\n#marketingdeperformance #googleads #metaads #crm",
+   "primeiro_comentario": ""
+  },
+  {
+   "data": "2026-11-27",
+   "hora": "08:00",
+   "formato": "estatico",
+   "tema": "Ignite: RAIO-X depois da Black Friday",
+   "midia": "p_raiox.png",
+   "texto": "Hoje é Black Friday, e o painel de cada plataforma vai mostrar o melhor resultado do ano.\n\nAntes de tirar conclusão, na semana que vem eu confiro quatro pontos:\n\n1. Conversões das plataformas contra vendas no caixa ou no CRM, no mesmo período\n2. Quanto veio de remarketing e da busca pela marca, e quanto de cliente novo\n3. CPM e custo por venda da semana contra outubro\n4. Ticket médio e margem dos pedidos, além do volume\n\nNa semana mais cara do ano, comparar um painel com outro engana. O que serve para planejar dezembro e janeiro é saber qual público e qual criativo trouxeram cliente novo a um custo que se paga.\n\nNa Ignit Agency, o RAIO-X é a auditoria de conta que responde a essas perguntas. Se quiser que a gente olhe a sua conta depois da Black Friday, comente RAIO-X que eu te chamo.\n\nO seu relatório da Black Friday vai separar cliente novo de quem já ia comprar?\n\n#blackfriday #midiapaga #growth",
+   "primeiro_comentario": ""
+  }
+ ],
+ "artigo": {
+  "data": "2026-11-23",
+  "titulo": "O que eu deixo a automação decidir numa conta de mídia, e o que eu não deixo",
+  "capa": "art_capa.png",
+  "texto": "O que eu deixo a automação decidir numa conta de mídia, e o que eu não deixo\n\nToda semana aparece um recurso novo que tira uma decisão das mãos de quem opera mídia. O AI Max amplia as buscas em que o anúncio aparece. A Performance Max escolhe canal, público e combinação de peças. O Advantage+ do Meta mexe em público, posicionamento e, em alguns casos, no próprio criativo.\n\nNão sou contra nada disso. A maior parte desses recursos entrega mais do que a configuração manual que veio antes. O ponto é outro: a automação otimiza para a meta que recebe, com os dados que recebe. Se a meta ou o dado estão errados, ela erra mais rápido e com mais verba.\n\nPor isso separo as decisões de uma conta em dois grupos. As que eu entrego para a plataforma e as que continuam comigo.\n\nO que eu deixo a máquina decidir\n\nLance por leilão. Nenhuma pessoa ajusta lance melhor que o Smart Bidding ou o lance do Meta olhando milhares de sinais por leilão. Lance manual hoje só faz sentido em conta muito pequena ou em teste controlado.\n\nPúblico dentro do sinal certo. Com uma boa conversão configurada, público amplo costuma achar comprador mais barato que a segmentação detalhada que eu montaria. Os públicos que eu crio passam a funcionar como sinal e como exclusão.\n\nDistribuição de verba entre conjuntos parecidos. Quando os conjuntos disputam o mesmo público, deixar a plataforma distribuir o orçamento evita que eu pague para competir comigo mesmo.\n\nCombinação de peças. Testar qual título vai com qual imagem é trabalho de máquina. Desde que as peças tenham sido escritas e aprovadas por alguém.\n\nO que eu não deixo\n\nQual conversão a conta otimiza. Essa é a decisão mais importante de uma conta, e a plataforma não tem como tomá-la por mim. Se a meta é formulário enviado, ela vai achar quem envia formulário. Se a meta é venda, alguém precisa devolver a venda para a plataforma, pelo CRM ou por conversão offline. Essa parte cabe ao time.\n\nO texto e a imagem que vão ao ar. Recursos de melhoria automática de criativo podem traduzir texto, gerar fundo e alterar imagem. Ligo só o que a marca aprovou e registro quem aprovou. Quem responde pelo anúncio continua sendo o anunciante.\n\nTermos de pesquisa e expansões. Busca ampla e AI Max podem funcionar bem, mas precisam de lista de negativas, exclusão de marca quando faz sentido e leitura semanal dos termos. A PPC Land citou recentemente uma análise da Smarter Ecommerce com quase 29% das impressões de palavra-chave exata vindo de expansão do AI Max em e-commerce na região EMEA. O Google passou a documentar um parâmetro de rastreio que separa esse tráfego. Quando a plataforma oferece um jeito de separar, eu uso.\n\nQuanto investir. A plataforma sempre vai aceitar mais verba. Quem decide o teto é o custo por venda real, com dado do caixa ou do CRM.\n\nComo eu reviso a automação\n\nUma vez por semana, olho quatro coisas em cada conta:\n\n1. Se as conversões da plataforma batem com as vendas registradas fora dela\n2. Para onde a verba foi: termos, posicionamentos e públicos que mais gastaram\n3. Quais melhorias automáticas estão ligadas em cada anúncio ativo\n4. Se o custo por venda real mudou depois de alguma mudança automática\n\nSe algum desses pontos sai do esperado, a automação ganha um limite novo: uma negativa, uma exclusão, uma meta de custo ou um recurso desligado.\n\nA divisão que defendo\n\nA máquina decide como chegar ao resultado. Eu decido qual é o resultado, com que dado ele é medido e até onde a verba vai. Quando essa divisão se inverte, a conta continua rodando, os painéis continuam bonitos e o caixa demora alguns meses para mostrar o problema.\n\nNa sua conta, qual decisão você ainda não entrega para a automação?",
+  "status": "Publicar manualmente"
+ }
+}
