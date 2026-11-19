@@ -1,0 +1,26 @@
+{
+  "perfil": "ignite",
+  "papel": "#F3F2EF",
+  "papel2": "#FFFFFF",
+  "tinta": "#141518",
+  "apagado": "#5F6168",
+  "linha": "rgba(20,21,24,.14)",
+  "destaque": "#D9480F",
+  "destaque_texto": "#B53A0B",
+  "link": "#2F5BD3",
+  "fonte_titulo": "Inter Display",
+  "fonte_nome": "Inter",
+  "fonte_mono": "IBM Plex Mono",
+  "fonte_manuscrita": "Caveat",
+  "fontes": {"titulo": "exata", "nome": "exata", "mono": "exata", "manuscrita": "exata"},
+  "contraste_sobre_papel": {"tinta": 16.31, "apagado": 5.52, "destaque": 3.84, "destaque_texto": 5.25, "link": 5.27},
+  "regras": [
+    "destaque (#D9480F) so em blocos, adesivos e titulos grandes; texto pequeno em laranja usa destaque_texto",
+    "logo da Ignite so em pecas da Ignite e do LinkedIn pessoal",
+    "nunca o nome do Cristiano na arte",
+    "nunca usar este perfil em peca final de cliente"
+  ],
+  "logo": "sistema/marcas/ignite/logo.svg",
+  "origem": "sistema/criador.py (branch linkedin)",
+  "verificado_em": "2026-11-19"
+}
