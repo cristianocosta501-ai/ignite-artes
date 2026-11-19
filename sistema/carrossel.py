@@ -13,6 +13,6 @@ with sync_playwright() as p:
 jpgs = []
 from PIL import Image
 for f in pngs:
-    j = f.replace(".png", ".jpg"); Image.open(f).convert("RGB").save(j, quality=92, subsampling=0); jpgs.append(j)
+    j = f.replace(".png", ".jpg"); Image.open(f).convert("RGB").save(j, quality=int(os.environ.get("JQ","92")), subsampling=0); jpgs.append(j)
 subprocess.run(["img2pdf", "--pagesize", "1080x1350", "-o", out, *jpgs], check=True)
 print(out, os.path.getsize(out))
