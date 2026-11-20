@@ -19,3 +19,9 @@
 - Nenhum post sugerido. Cinco buscas (Black Friday, Meta Ads, Google Ads, CPM, nomes da lista e busca pelo prefixo de ID das publicações desta semana) só devolveram posts do LinkedIn de 2017 a 2023. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
 - Quarto dia seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
 - Lista de alvos sem alterações; nenhum nome novo nesta semana.
+
+## 2026-11-20 (sexta)
+- Nenhum post sugerido. Quatro buscas (Black Friday, Meta Ads, Google Ads, CPM, nomes da lista e prefixo de ID das publicações desta semana) só devolveram posts do LinkedIn de 2017 a 2023. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
+- Pista fora da regra (post não visto, sem link e sem comentário pronto): a página Google Analytics publicou em 19/11/2026 um post sobre orçamento entre canais com dimensão de plataforma de origem, citado pela PPC Land em 20/11. Achável na página da empresa no LinkedIn.
+- Quinto dia seguido sem post (semana inteira): a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
+- Lista de alvos sem alterações; nenhum nome novo nesta semana.
