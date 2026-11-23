@@ -25,3 +25,8 @@
 - Pista fora da regra (post não visto, sem link e sem comentário pronto): a página Google Analytics publicou em 19/11/2026 um post sobre orçamento entre canais com dimensão de plataforma de origem, citado pela PPC Land em 20/11. Achável na página da empresa no LinkedIn.
 - Quinto dia seguido sem post (semana inteira): a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
 - Lista de alvos sem alterações; nenhum nome novo nesta semana.
+
+## 2026-11-23 (segunda)
+- Nenhum post sugerido. Quatro buscas (Black Friday, Meta Ads, Google Ads, CPM, mídia paga, prefixo de ID das publicações recentes) só devolveram posts do LinkedIn de 2021 a 2023 e artigos de blog. A abertura de 8 páginas e perfis da lista (Meio & Mensagem, E-Commerce Brasil, Mercado & Consumo, Google Ads, IAB Brasil, Rafael Kiso, Gustavo Esteves, Caio Camargo) falhou por permissão de leitura não concedida nesta execução. Nada foi completado com post antigo.
+- Sexto dia útil seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
+- Lista de alvos sem alterações; nenhum nome novo nesta semana.
