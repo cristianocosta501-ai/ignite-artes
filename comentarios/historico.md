@@ -30,3 +30,9 @@
 - Nenhum post sugerido. Quatro buscas (Black Friday, Meta Ads, Google Ads, CPM, mídia paga, prefixo de ID das publicações recentes) só devolveram posts do LinkedIn de 2021 a 2023 e artigos de blog. A abertura de 8 páginas e perfis da lista (Meio & Mensagem, E-Commerce Brasil, Mercado & Consumo, Google Ads, IAB Brasil, Rafael Kiso, Gustavo Esteves, Caio Camargo) falhou por permissão de leitura não concedida nesta execução. Nada foi completado com post antigo.
 - Sexto dia útil seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
 - Lista de alvos sem alterações; nenhum nome novo nesta semana.
+
+## 2026-11-24 (terça)
+- Nenhum post sugerido. Cinco buscas (Black Friday, Meta Ads, Google Ads, CPM, mídia paga, nomes da lista e prefixo de ID das publicações desta semana) só devolveram posts do LinkedIn de 2021 a 2023 e artigos de blog. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
+- Pista fora da regra (post não visto, sem link e sem comentário pronto): Brodie Clark (consultor de SEO, SERP Lens) publicou no LinkedIn o relato de um site que saiu dos AI Overviews e do Modo IA e quase não perdeu cliques, citado pela PPC Land em 22/11/2026. Post em inglês, achável no perfil dele.
+- Sétimo dia útil seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
+- Lista de alvos sem alterações; nenhum nome novo nesta semana.
