@@ -42,3 +42,8 @@
 - Pista fora da regra (post não visto, sem link e sem comentário pronto): Navah Hopkins (Ads Liaison da Microsoft Advertising) publicou no LinkedIn em 23/11/2026 um esclarecimento sobre a atualização dos modelos de lance, citado pela PPC Land no mesmo dia. Post em inglês, achável no perfil dela.
 - Oitavo dia útil seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
 - Lista de alvos sem alterações; nenhum nome novo nesta semana.
+
+## 2026-11-26 (quinta)
+- Nenhum post sugerido. Sete buscas (Black Friday, Meta Ads, Google Ads, CPM, CAC, mídia paga, nomes da lista e prefixo de ID das publicações de 24 a 26/11) só devolveram posts do LinkedIn de 2017 a 2023 e artigos de blog. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
+- Nono dia útil seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
+- Lista de alvos sem alterações; nenhum nome novo nesta semana.
