@@ -42,7 +42,7 @@
 | Ter 24/11 | 18h | Reel | Hero | EUA | Fornecedor local ou time no Brasil: a conta completa (com fonte) | Planejado |
 | Qua 25/11 | 10h | Reel | Help | Portugal e Espanha | Atendimento em português para cliente europeu: o que combinar no contrato | Planejado |
 | Qua 25/11 | 12h | Carrossel | Hero | Brasil | Time de marketing interno ou agência: a conta em reais (com fonte) (palavra-chave: marketing para pequenas empresas) | Planejado (teste) |
-| Qui 26/11 | — | Balanço | — | — | Balanço do teste interior de SP: Brasil x internacional, com recomendação | Planejado |
+| Qui 26/11 | — | Balanço | — | — | Balanço do teste interior de SP: Brasil x internacional, com recomendação | Entregue (ver sistema/balanco-teste-interior.md) |
 
 
 "(teste)": peça do teste interior de SP (ver PLAYBOOK). Fala com o dono de PME sobre os serviços da Ignite, sem citar cidade nem região.

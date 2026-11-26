@@ -93,3 +93,14 @@ Siga `sistema/CRONOGRAMA.md` para data, horário, região e tema. Se um tema nã
 
 ## Dados da dashboard
 Toda rodada regrava `sistema/instagram-metricas.json` com dados do Metricool, mantendo as chaves `fetchedAt`, `source`, `profile`, `followers`, `daily` (`d`, `followers`, `reach`, `views`), `posts` (`date`, `type`, `region`, `title`, `url`, `reach`, `views`, `likes`, `comments`, `saves`, `shares`) e `queue` (`date`, `time`, `type`, `region`, `title`). Não inclua directs, leads, nomes de pessoas nem dados de clientes: o repositório é público. Se o Metricool falhar, não apague o arquivo anterior.
+
+## Efeitos e som sincronizado
+Todo Reel usa a skill ignite-efeitos-video (formato Reel), com os efeitos escolhidos pelo papel na peça: gancho (orbit, vertigo ou glitch), prova (charts, phone ou pullback), transição (zoom ou glitch), tese (papercut ou headlines) e fecho (type ou framebreak). No máximo 3 efeitos fortes por Reel; o resto é tipografia limpa.
+
+- Sound-map em `fontes/<peça>/sound-map.json`: frame inicial de cada movimento (contado do frame 0), tipo e herói (gancho, número principal, CTA com a palavra-chave).
+- Um som sintetizado fixo por tipo de movimento (`audio/sfx.py` da skill), com o pico no frame do movimento. Heróis a 0 dB, demais efeitos 8 dB abaixo, batida desde o segundo 0, pico até -1 dBFS e loudness final em -14 LUFS.
+- Nenhum som secundário nos 15 frames depois de um impacto.
+- Reel montado em HTML (`renderFrame`): use `audio/mix.py` e `audio/check.py` da skill no MP4 final.
+- `check.py` no vídeo final com tolerância de ±1 frame. Som fora disso é corrigido e o áudio refeito antes de agendar; registre `N/N sons no frame` no resumo.
+- Continuam valendo: cada informação 3 s totalmente parada e texto entrando palavra a palavra.
+- Retrofit: Reel na fila, ainda não publicado e sem `sound-map.json` na pasta recebe só o áudio novo (sem mudar visual, texto ou horário), com commit e troca da mídia no Metricool. Máximo de 3 por execução, do mais próximo de publicar. Se o MP4 não estiver no repositório e não puder ser baixado, registre a falha e não troque a mídia.

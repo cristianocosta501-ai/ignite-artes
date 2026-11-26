@@ -1,8 +1,8 @@
 {
-"fetchedAt": "2026-11-10T08:34:45Z",
+"fetchedAt": "2026-11-26T08:28:50Z",
 "source": "Metricool",
 "profile": "ignit.agency",
-"followers": 56,
+"followers": 58,
 "daily": [
 {
 "d": "2026-09-01",
@@ -417,6 +417,108 @@
 "followers": 56,
 "reach": 47,
 "views": 174
+},
+{
+"d": "2026-11-09",
+"followers": 56,
+"reach": 93,
+"views": 249
+},
+{
+"d": "2026-11-10",
+"followers": 55,
+"reach": 28,
+"views": 82
+},
+{
+"d": "2026-11-11",
+"followers": 55,
+"reach": 100,
+"views": 194
+},
+{
+"d": "2026-11-12",
+"followers": 55,
+"reach": 61,
+"views": 239
+},
+{
+"d": "2026-11-13",
+"followers": 55,
+"reach": 17,
+"views": 106
+},
+{
+"d": "2026-11-14",
+"followers": 56,
+"reach": 19,
+"views": 206
+},
+{
+"d": "2026-11-15",
+"followers": 56,
+"reach": 7,
+"views": 45
+},
+{
+"d": "2026-11-16",
+"followers": 57,
+"reach": 89,
+"views": 229
+},
+{
+"d": "2026-11-17",
+"followers": 58,
+"reach": 37,
+"views": 85
+},
+{
+"d": "2026-11-18",
+"followers": 58,
+"reach": 18,
+"views": 63
+},
+{
+"d": "2026-11-19",
+"followers": 58,
+"reach": 1,
+"views": 4
+},
+{
+"d": "2026-11-20",
+"followers": 58,
+"reach": 1,
+"views": 4
+},
+{
+"d": "2026-11-21",
+"followers": 58,
+"reach": 2,
+"views": 5
+},
+{
+"d": "2026-11-22",
+"followers": 58,
+"reach": 2,
+"views": 7
+},
+{
+"d": "2026-11-23",
+"followers": 58,
+"reach": 82,
+"views": 182
+},
+{
+"d": "2026-11-24",
+"followers": 58,
+"reach": 77,
+"views": 118
+},
+{
+"d": "2026-11-25",
+"followers": 58,
+"reach": 10,
+"views": 39
 }
 ],
 "posts": [
@@ -540,25 +642,25 @@
 {
 "date": "2026-10-28",
 "type": "Carrossel",
-"region": "Geral",
-"title": "ROAS no painel x caixa",
+"region": "EUA",
+"title": "ROAS bonito no painel e caixa vazio no banco?",
 "url": "https://www.instagram.com/p/DfCfVv1ieED/",
-"reach": 19,
-"views": 52,
+"reach": 20,
+"views": 56,
 "likes": 9,
 "comments": 2,
-"saves": 1,
+"saves": 2,
 "shares": 0
 },
 {
 "date": "2026-11-06",
 "type": "Reel",
 "region": "Geral",
-"title": "De 1.000 cliques a 4 vendas",
+"title": "Mil cliques parecem muito. Até você perguntar quantos viraram venda",
 "url": "https://www.instagram.com/reel/DfahzCblR9Z/",
-"reach": 15,
-"views": 23,
-"likes": 8,
+"reach": 18,
+"views": 28,
+"likes": 9,
 "comments": 0,
 "saves": 6,
 "shares": 0
@@ -567,102 +669,561 @@
 "date": "2026-11-06",
 "type": "Reel",
 "region": "Geral",
-"title": "Fuso: que horas são aí",
+"title": "Agência no Brasil e você em outro fuso",
 "url": "https://www.instagram.com/reel/DfZrJAsDxq4/",
-"reach": 27,
-"views": 63,
-"likes": 11,
+"reach": 29,
+"views": 67,
+"likes": 12,
 "comments": 0,
-"saves": 4,
-"shares": 0
-},
-{
-"date": "2026-11-07",
-"type": "Reel",
-"region": "Geral",
-"title": "Por dentro de um painel (dados fictícios)",
-"url": "https://www.instagram.com/reel/DfcPrE0CiuC/",
-"reach": 24,
-"views": 47,
-"likes": 11,
-"comments": 0,
-"saves": 7,
+"saves": 5,
 "shares": 0
 },
 {
 "date": "2026-11-07",
 "type": "Reel",
 "region": "EUA",
-"title": "Agência nos EUA ou no Brasil em dólar",
+"title": "Negócio nos EUA: agência em Miami ou no Brasil, tudo em dólar",
 "url": "https://www.instagram.com/reel/DfdGl6_Atmt/",
-"reach": 47,
-"views": 75,
-"likes": 7,
+"reach": 51,
+"views": 83,
+"likes": 8,
 "comments": 0,
 "saves": 5,
 "shares": 1
 },
 {
-"date": "2026-11-08",
+"date": "2026-11-07",
 "type": "Reel",
-"region": "Portugal e Espanha",
-"title": "Portugal e Espanha não são um mercado",
-"url": "https://www.instagram.com/reel/Dfe0gEnmeaT/",
-"reach": 19,
-"views": 34,
-"likes": 8,
+"region": "Geral",
+"title": "Por dentro de um painel de mídia (dados fictícios)",
+"url": "https://www.instagram.com/reel/DfcPrE0CiuC/",
+"reach": 26,
+"views": 57,
+"likes": 12,
 "comments": 0,
-"saves": 6,
+"saves": 7,
 "shares": 0
 },
 {
 "date": "2026-11-08",
 "type": "Reel",
 "region": "Austrália",
-"title": "Sydney e Melbourne: separar campanha por cidade",
+"title": "Negócio na Austrália: Sydney e Melbourne na mesma campanha",
 "url": "https://www.instagram.com/reel/DffyOowAn1G/",
-"reach": 14,
-"views": 32,
-"likes": 2,
+"reach": 22,
+"views": 47,
+"likes": 7,
 "comments": 0,
 "saves": 3,
+"shares": 0
+},
+{
+"date": "2026-11-08",
+"type": "Reel",
+"region": "Portugal e Espanha",
+"title": "Negócio na Europa: Portugal e Espanha na mesma campanha",
+"url": "https://www.instagram.com/reel/Dfe0gEnmeaT/",
+"reach": 21,
+"views": 41,
+"likes": 9,
+"comments": 0,
+"saves": 6,
+"shares": 0
+},
+{
+"date": "2026-11-09",
+"type": "Reel",
+"region": "EUA",
+"title": "Negócio na Flórida: contratar marketing em Miami e Orlando, a conta em dólar",
+"url": "https://www.instagram.com/reel/DfiQLWZCdFb/",
+"reach": 21,
+"views": 47,
+"likes": 11,
+"comments": 0,
+"saves": 5,
 "shares": 0
 },
 {
 "date": "2026-11-09",
 "type": "Reel",
 "region": "Brasil",
-"title": "Lead sem resposta no WhatsApp",
+"title": "Seu anúncio trouxe o lead. Quanto tempo ele esperou no WhatsApp?",
 "url": "https://www.instagram.com/reel/DfhnVhmDYIu/",
-"reach": 51,
-"views": 62,
-"likes": 6,
-"comments": 6,
-"saves": 3,
+"reach": 101,
+"views": 124,
+"likes": 13,
+"comments": 7,
+"saves": 5,
 "shares": 1
+},
+{
+"date": "2026-11-10",
+"type": "Reel",
+"region": "Austrália",
+"title": "Câmbio da semana: negócio na Austrália e agência no Brasil",
+"url": "https://www.instagram.com/reel/Dfk71EaOdYW/",
+"reach": 17,
+"views": 28,
+"likes": 7,
+"comments": 0,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-10",
+"type": "Reel",
+"region": "Portugal e Espanha",
+"title": "Câmbio da semana: negócio em Portugal ou na Espanha, o euro mudou a conta",
+"url": "https://www.instagram.com/reel/Dfj-NAfqYt5/",
+"reach": 16,
+"views": 34,
+"likes": 8,
+"comments": 1,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-11",
+"type": "Reel",
+"region": "Brasil",
+"title": "Se esse vídeo apareceu pra você, não foi coincidência",
+"url": "https://www.instagram.com/reel/DfngkykxpCn/",
+"reach": 16,
+"views": 37,
+"likes": 11,
+"comments": 0,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-11",
+"type": "Carrossel",
+"region": "Brasil",
+"title": "Escalar verba no Meta Ads e no Google Ads sem queimar dinheiro",
+"url": "https://www.instagram.com/p/Dfm4OVwCNLx/",
+"reach": 20,
+"views": 58,
+"likes": 13,
+"comments": 0,
+"saves": 5,
+"shares": 0
+},
+{
+"date": "2026-11-11",
+"type": "Carrossel",
+"region": "Geral",
+"title": "Mora fora e vai contratar uma agência no Brasil? 5 perguntas",
+"url": "https://www.instagram.com/p/DfmjSCzDVjj/",
+"reach": 132,
+"views": 184,
+"likes": 13,
+"comments": 1,
+"saves": 6,
+"shares": 1
+},
+{
+"date": "2026-11-12",
+"type": "Reel",
+"region": "EUA",
+"title": "Negócio nos EUA: agência local acima de US$ 3.000 por mês",
+"url": "https://www.instagram.com/reel/DfqFeWmBx7R/",
+"reach": 17,
+"views": 27,
+"likes": 10,
+"comments": 1,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-12",
+"type": "Reel",
+"region": "Brasil",
+"title": "Três frases que todo dono de negócio já disse sobre o próprio anúncio",
+"url": "https://www.instagram.com/reel/DfpHxPrSHio/",
+"reach": 41,
+"views": 68,
+"likes": 13,
+"comments": 1,
+"saves": 5,
+"shares": 1
+},
+{
+"date": "2026-11-12",
+"type": "Carrossel",
+"region": "Brasil",
+"title": "Pixel e API de Conversões da Meta: sua venda pode estar sendo contada duas vezes",
+"url": "https://www.instagram.com/p/Dfpc3zdDYj2/",
+"reach": 17,
+"views": 48,
+"likes": 10,
+"comments": 0,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-13",
+"type": "Reel",
+"region": "Portugal e Espanha",
+"title": "Negócio em Portugal ou na Espanha: agência local a € 2.500 por mês",
+"url": "https://www.instagram.com/reel/DfsqNveBT6U/",
+"reach": 20,
+"views": 40,
+"likes": 8,
+"comments": 0,
+"saves": 3,
+"shares": 0
+},
+{
+"date": "2026-11-13",
+"type": "Reel",
+"region": "Brasil",
+"title": "Seu anúncio parou de vender e disseram que o algoritmo mudou?",
+"url": "https://www.instagram.com/reel/DfrsoDloVnB/",
+"reach": 20,
+"views": 33,
+"likes": 13,
+"comments": 2,
+"saves": 5,
+"shares": 0
+},
+{
+"date": "2026-11-13",
+"type": "Carrossel",
+"region": "Brasil",
+"title": "Branding para baixar o custo por lead",
+"url": "https://www.instagram.com/p/DfsBlOrCFCz/",
+"reach": 21,
+"views": 64,
+"likes": 11,
+"comments": 0,
+"saves": 5,
+"shares": 0
+},
+{
+"date": "2026-11-14",
+"type": "Reel",
+"region": "Austrália",
+"title": "Negócio na Austrália: agência local a A$ 4.000 por mês",
+"url": "https://www.instagram.com/reel/DfvO4K5JR5a/",
+"reach": 16,
+"views": 22,
+"likes": 10,
+"comments": 0,
+"saves": 4,
+"shares": 0
+},
+{
+"date": "2026-11-14",
+"type": "Reel",
+"region": "EUA",
+"title": "Empresário brasileiro nos EUA que já trocou de agência",
+"url": "https://www.instagram.com/reel/DfuRMj0oKH-/",
+"reach": 18,
+"views": 41,
+"likes": 9,
+"comments": 1,
+"saves": 5,
+"shares": 0
+},
+{
+"date": "2026-11-14",
+"type": "Carrossel",
+"region": "Geral",
+"title": "Auditoria de conta de anúncios: o RAIO-X da Ignite (Brasil, EUA, Portugal, Espanha e Austr",
+"url": "https://www.instagram.com/p/DfumTz4itYq/",
+"reach": 21,
+"views": 61,
+"likes": 10,
+"comments": 0,
+"saves": 5,
+"shares": 0
+},
+{
+"date": "2026-11-16",
+"type": "Reel",
+"region": "Geral",
+"title": "Posso ver seu trabalho? Time no Brasil atendendo Brasil, EUA, Europa e Austrália",
+"url": "https://www.instagram.com/reel/Df0Yc3ZoXme/",
+"reach": 39,
+"views": 65,
+"likes": 12,
+"comments": 0,
+"saves": 7,
+"shares": 1
+},
+{
+"date": "2026-11-16",
+"type": "Reel",
+"region": "Geral",
+"title": "Você cuida do negócio em Orlando, Lisboa ou Sydney",
+"url": "https://www.instagram.com/reel/Dfza108sBiY/",
+"reach": 106,
+"views": 158,
+"likes": 11,
+"comments": 1,
+"saves": 6,
+"shares": 3
+},
+{
+"date": "2026-11-16",
+"type": "Carrossel",
+"region": "EUA",
+"title": "Anúncios para brasileiros nos EUA ou para o público americano?",
+"url": "https://www.instagram.com/p/DfzvrauiLtw/",
+"reach": 17,
+"views": 35,
+"likes": 12,
+"comments": 0,
+"saves": 6,
+"shares": 0
+},
+{
+"date": "2026-11-18",
+"type": "Reel",
+"region": "EUA",
+"title": "Câmbio da semana: negócio nos EUA e agência no Brasil, a fatura em dólar",
+"url": "https://www.instagram.com/reel/Df5bRSTxwSE/",
+"reach": 16,
+"views": 28,
+"likes": 9,
+"comments": 0,
+"saves": 6,
+"shares": 0
+},
+{
+"date": "2026-11-18",
+"type": "Reel",
+"region": "Brasil",
+"title": "Custo por venda: a conta antes de aumentar a verba",
+"url": "https://www.instagram.com/reel/Df4y3FuAXE-/",
+"reach": 15,
+"views": 22,
+"likes": 9,
+"comments": 0,
+"saves": 7,
+"shares": 0
+},
+{
+"date": "2026-11-23",
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que meu anúncio parou de vender do nada?",
+"url": "https://www.instagram.com/reel/DgGaY9mBsCU/",
+"reach": 141,
+"views": 202,
+"likes": 12,
+"comments": 0,
+"saves": 6,
+"shares": 3
+},
+{
+"date": "2026-11-23",
+"type": "Reel",
+"region": "Brasil",
+"title": "Tráfego pago por dentro: como é um dia de operação numa agência de mídia",
+"url": "https://www.instagram.com/reel/DgFqxNipN7p/",
+"reach": 22,
+"views": 38,
+"likes": 10,
+"comments": 0,
+"saves": 6,
+"shares": 0
+},
+{
+"date": "2026-11-25",
+"type": "Reel",
+"region": "Portugal e Espanha",
+"title": "Negócio em Portugal ou na Espanha e agência de marketing no Brasil? Atendimento em portugu",
+"url": "https://www.instagram.com/reel/DgLI06GIGPE/",
+"reach": 9,
+"views": 16,
+"likes": 4,
+"comments": 1,
+"saves": 2,
+"shares": 0
+},
+{
+"date": "2026-11-25",
+"type": "Carrossel",
+"region": "Brasil",
+"title": "Marketing para pequenas empresas: contratar alguém ou uma agência de marketing?",
+"url": "https://www.instagram.com/p/DgLdOfQFSUG/",
+"reach": 7,
+"views": 23,
+"likes": 5,
+"comments": 0,
+"saves": 2,
+"shares": 0
 }
 ],
 "queue": [
 {
-"date": "2026-11-10",
+"date": "2026-11-26",
 "time": "10h",
 "type": "Reel",
-"region": "Portugal e Espanha",
-"title": "Câmbio da semana: o euro e o seu custo"
+"region": "Brasil",
+"title": "Por que o painel mostra venda que o caixa não vê"
 },
 {
-"date": "2026-11-10",
+"date": "2026-11-26",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Desconto não conserta anúncio ruim"
+},
+{
+"date": "2026-11-26",
 "time": "19h",
-"type": "Reel",
-"region": "Austrália",
-"title": "Câmbio da semana: o dólar australiano e a sua fatura"
+"type": "Post",
+"region": "Brasil",
+"title": "Por que mais verba piorou o resultado"
 },
 {
-"date": "2026-11-11",
+"date": "2026-11-27",
 "time": "10h",
-"type": "Carrossel",
-"region": "Geral",
-"title": "5 perguntas antes de contratar"
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que o custo por clique sobe na Black Friday"
+},
+{
+"date": "2026-11-27",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Relatório de tráfego pago: o que o painel precisa mostrar primeiro"
+},
+{
+"date": "2026-11-27",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Relatório bonito não é resultado"
+},
+{
+"date": "2026-11-28",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "O que olhar antes de aumentar a verba de anúncio"
+},
+{
+"date": "2026-11-28",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Perguntas para fazer a quem cuida dos seus anúncios"
+},
+{
+"date": "2026-11-28",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Trocar de agência não conserta rastreio"
+},
+{
+"date": "2026-11-29",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que o anúncio mais curtido vendeu menos"
+},
+{
+"date": "2026-11-29",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Como ler o resultado da Black Friday"
+},
+{
+"date": "2026-11-29",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Quem vende no fim de ano começou a anunciar em outubro"
+},
+{
+"date": "2026-11-30",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que o cliente clica no anúncio e não chama no WhatsApp"
+},
+{
+"date": "2026-11-30",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Por que o custo por venda subiu"
+},
+{
+"date": "2026-11-30",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Por que o anúncio com mais curtida não é o que mais vende"
+},
+{
+"date": "2026-12-01",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que o lead some depois do primeiro contato"
+},
+{
+"date": "2026-12-01",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Por que o mesmo anúncio funciona no Instagram e falha no Facebook"
+},
+{
+"date": "2026-12-01",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Agência boa fala de venda antes de falar de alcance"
+},
+{
+"date": "2026-12-02",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "O resultado vem mês que vem"
+},
+{
+"date": "2026-12-02",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Como é a segunda-feira de relatórios na Ignite"
+},
+{
+"date": "2026-12-02",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Quando subir o anúncio de Natal"
+},
+{
+"date": "2026-12-03",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que desligar o anúncio quando a agenda enche é um erro"
+},
+{
+"date": "2026-12-03",
+"time": "13h",
+"type": "Post",
+"region": "Brasil",
+"title": "Por que o público semelhante parou de trazer venda"
+},
+{
+"date": "2026-12-03",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Desconto todo mês ensina o cliente a esperar"
 }
 ]
 }
