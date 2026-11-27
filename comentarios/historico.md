@@ -47,3 +47,9 @@
 - Nenhum post sugerido. Sete buscas (Black Friday, Meta Ads, Google Ads, CPM, CAC, mídia paga, nomes da lista e prefixo de ID das publicações de 24 a 26/11) só devolveram posts do LinkedIn de 2017 a 2023 e artigos de blog. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
 - Nono dia útil seguido sem post: a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
 - Lista de alvos sem alterações; nenhum nome novo nesta semana.
+
+## 2026-11-27 (sexta)
+- Nenhum post sugerido. Cinco buscas (Black Friday, Meta Ads, Google Ads, CPM, CAC, mídia paga, nomes da lista e prefixo de ID das publicações de 25 a 27/11) só devolveram posts do LinkedIn de 2022 a julho de 2026 e artigos de blog. Nenhum post das últimas 48 horas apareceu, então não houve o que abrir nem datar. Nada foi completado com post antigo.
+- Pista fora da regra (post não visto, sem link direto e sem comentário pronto): Ginny Marvin (Ads Liaison do Google) respondeu no LinkedIn a David Melamed sobre pontuar valores de conversão de forma dinâmica no Smart Bidding, citado pelo Search Engine Roundtable em 25/11/2026. Post em inglês, data do post não conferida, achável no perfil dela ou no dele.
+- Décimo dia útil seguido sem post (duas semanas inteiras): a busca na web não indexa posts recentes do LinkedIn. A rotina só rende se o Cristiano colar links de posts ou se houver outra fonte de posts.
+- Lista de alvos sem alterações; nenhum nome novo nesta semana.
