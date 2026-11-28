@@ -1,5 +1,5 @@
 {
-"fetchedAt": "2026-11-27T08:28:23Z",
+"fetchedAt": "2026-11-28T08:40:00Z",
 "source": "Metricool",
 "profile": "ignit.agency",
 "followers": 59,
@@ -523,8 +523,14 @@
 {
 "d": "2026-11-26",
 "followers": 59,
-"reach": 40,
-"views": 217
+"reach": 41,
+"views": 218
+},
+{
+"d": "2026-11-27",
+"followers": 59,
+"reach": 52,
+"views": 114
 }
 ],
 "posts": [
@@ -899,7 +905,7 @@
 "title": "Por que meu anúncio parou de vender do nada?",
 "url": "https://www.instagram.com/reel/DgGaY9mBsCU/",
 "reach": 143,
-"views": 204,
+"views": 205,
 "likes": 13,
 "comments": 0,
 "saves": 6,
@@ -924,8 +930,8 @@
 "region": "Portugal e Espanha",
 "title": "Negócio em Portugal ou na Espanha e agência de marketing no Brasil? Atendimento em portugu",
 "url": "https://www.instagram.com/reel/DgLI06GIGPE/",
-"reach": 16,
-"views": 28,
+"reach": 17,
+"views": 29,
 "likes": 7,
 "comments": 1,
 "saves": 3,
@@ -950,8 +956,8 @@
 "region": "Brasil",
 "title": "Por que o painel mostra venda que o caixa não vê",
 "url": "https://www.instagram.com/reel/DgNLEekB8hK/",
-"reach": 39,
-"views": 67,
+"reach": 42,
+"views": 70,
 "likes": 6,
 "comments": 0,
 "saves": 3,
@@ -963,8 +969,8 @@
 "region": "Brasil",
 "title": "Por que mais verba piorou o resultado",
 "url": "https://www.instagram.com/p/DgOIjDECnAx/",
-"reach": 11,
-"views": 30,
+"reach": 12,
+"views": 31,
 "likes": 4,
 "comments": 0,
 "saves": 3,
@@ -982,30 +988,48 @@
 "comments": 1,
 "saves": 3,
 "shares": 0
+},
+{
+"date": "2026-11-27",
+"type": "Reel",
+"region": "Brasil",
+"title": "Por que o custo por clique sobe na Black Friday",
+"url": "https://www.instagram.com/reel/DgPv-p2hV3a/",
+"reach": 49,
+"views": 65,
+"likes": 4,
+"comments": 0,
+"saves": 1,
+"shares": 1
+},
+{
+"date": "2026-11-27",
+"type": "Post",
+"region": "Brasil",
+"title": "Relatório bonito não é resultado",
+"url": "https://www.instagram.com/p/DgQta0giJ-y/",
+"reach": 5,
+"views": 16,
+"likes": 1,
+"comments": 0,
+"saves": 1,
+"shares": 0
+},
+{
+"date": "2026-11-27",
+"type": "Carrossel",
+"region": "Brasil",
+"title": "Relatório de tráfego pago: o que o painel precisa mostrar primeiro",
+"url": "https://www.instagram.com/p/DgQEwHfiNuv/",
+"reach": 7,
+"views": 28,
+"likes": 4,
+"comments": 0,
+"saves": 2,
+"shares": 0
 }
 ],
 "queue": [
-{
-"date": "2026-11-27",
-"time": "10h",
-"type": "Reel",
-"region": "Brasil",
-"title": "Por que o custo por clique sobe na Black Friday"
-},
-{
-"date": "2026-11-27",
-"time": "13h",
-"type": "Carrossel",
-"region": "Brasil",
-"title": "Relatório de tráfego pago: o que o painel precisa mostrar primeiro"
-},
-{
-"date": "2026-11-27",
-"time": "19h",
-"type": "Post",
-"region": "Brasil",
-"title": "Relatório bonito não é resultado"
-},
 {
 "date": "2026-11-28",
 "time": "10h",
@@ -1152,6 +1176,27 @@
 "type": "Post",
 "region": "Brasil",
 "title": "Como fechamos a semana nas contas de anúncio"
+},
+{
+"date": "2026-12-05",
+"time": "10h",
+"type": "Reel",
+"region": "Brasil",
+"title": "Vendeu ou só vibrou?"
+},
+{
+"date": "2026-12-05",
+"time": "13h",
+"type": "Carrossel",
+"region": "Brasil",
+"title": "Tráfego pago com pouca verba: por onde começar"
+},
+{
+"date": "2026-12-05",
+"time": "19h",
+"type": "Post",
+"region": "Brasil",
+"title": "Por que o site lento derruba a venda em dezembro"
 }
 ]
 }
